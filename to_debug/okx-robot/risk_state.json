@@ -1,0 +1,12 @@
+{
+  "active_positions": {
+    "BTC-USDT-SWAP": {
+      "entry": 96714.0,
+      "sl": 97844.3,
+      "tp": 93888.25,
+      "side": "sell",
+      "size": 0.0885
+    }
+  },
+  "cooldown_tracker": {}
+}

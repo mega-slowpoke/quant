@@ -1,0 +1,1117 @@
+2025-06-06 17:45:12,800 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 17:45:12,800 - INFO - [4H] BTC-USDT-SWAP 2025-05-04 12:00 整 趋势=downtrend, OB={'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 17:45:14,053 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 17:45:14,053 - INFO - [4H] BTC-USDT-SWAP 2025-05-04 16:00 整 趋势=downtrend, OB={'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 17:45:15,445 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 17:45:15,445 - INFO - [4H] BTC-USDT-SWAP 2025-05-04 20:00 整 趋势=downtrend, OB={'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 17:45:16,570 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 17:45:16,571 - INFO - [4H] BTC-USDT-SWAP 2025-05-05 00:00 整 趋势=downtrend, OB={'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 17:45:17,785 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 17:45:17,786 - INFO - [4H] BTC-USDT-SWAP 2025-05-05 04:00 整 趋势=downtrend, OB={'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 17:45:19,154 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 17:45:19,155 - INFO - [4H] BTC-USDT-SWAP 2025-05-05 08:00 整 趋势=downtrend, OB={'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 17:45:20,289 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 17:45:20,289 - INFO - [4H] BTC-USDT-SWAP 2025-05-05 12:00 整 趋势=downtrend, OB={'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 17:45:21,970 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 17:45:21,970 - INFO - [4H] BTC-USDT-SWAP 2025-05-05 16:00 整 趋势=downtrend, OB={'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 17:45:23,044 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 17:45:23,044 - INFO - [4H] BTC-USDT-SWAP 2025-05-05 20:00 整 趋势=downtrend, OB={'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 17:45:24,328 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 17:45:24,328 - INFO - [4H] BTC-USDT-SWAP 2025-05-06 00:00 整 趋势=downtrend, OB={'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 17:45:25,511 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 17:45:25,511 - INFO - [4H] BTC-USDT-SWAP 2025-05-06 04:00 整 趋势=downtrend, OB={'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 17:45:27,169 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 17:45:27,170 - INFO - [4H] BTC-USDT-SWAP 2025-05-06 08:00 整 趋势=downtrend, OB={'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 17:45:29,480 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 17:45:29,481 - INFO - [4H] BTC-USDT-SWAP 2025-05-06 12:00 整 趋势=downtrend, OB={'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 17:45:30,580 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 17:45:30,580 - INFO - [4H] BTC-USDT-SWAP 2025-05-06 16:00 整 趋势=downtrend, OB={'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 17:45:31,610 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 17:45:31,611 - INFO - [4H] BTC-USDT-SWAP 2025-05-06 20:00 整 趋势=downtrend, OB={'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 17:45:32,563 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 94300.0, 'bottom': 93733.9}
+2025-06-06 17:45:32,564 - INFO - [4H] BTC-USDT-SWAP 2025-05-07 00:00 整 趋势=downtrend, OB={'top': 94300.0, 'bottom': 93733.9}
+2025-06-06 17:45:33,986 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 94300.0, 'bottom': 93733.9}
+2025-06-06 17:45:33,987 - INFO - [4H] BTC-USDT-SWAP 2025-05-07 04:00 整 趋势=downtrend, OB={'top': 94300.0, 'bottom': 93733.9}
+2025-06-06 17:45:35,146 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 94300.0, 'bottom': 93733.9}
+2025-06-06 17:45:35,146 - INFO - [4H] BTC-USDT-SWAP 2025-05-07 08:00 整 趋势=downtrend, OB={'top': 94300.0, 'bottom': 93733.9}
+2025-06-06 17:45:36,298 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 17:45:36,299 - INFO - [4H] BTC-USDT-SWAP 2025-05-07 12:00 整 趋势=uptrend, OB={'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 17:45:37,499 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 17:45:37,500 - INFO - [4H] BTC-USDT-SWAP 2025-05-07 16:00 整 趋势=uptrend, OB={'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 17:45:39,058 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 17:45:39,058 - INFO - [4H] BTC-USDT-SWAP 2025-05-07 20:00 整 趋势=uptrend, OB={'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 17:45:41,284 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 17:45:41,284 - INFO - [4H] BTC-USDT-SWAP 2025-05-08 00:00 整 趋势=uptrend, OB={'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 17:45:42,661 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 17:45:42,662 - INFO - [4H] BTC-USDT-SWAP 2025-05-08 04:00 整 趋势=uptrend, OB={'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 17:45:43,668 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 17:45:43,668 - INFO - [4H] BTC-USDT-SWAP 2025-05-08 08:00 整 趋势=uptrend, OB={'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 17:45:44,606 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 17:45:44,607 - INFO - [4H] BTC-USDT-SWAP 2025-05-08 12:00 整 趋势=uptrend, OB={'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 17:45:45,621 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 17:45:45,621 - INFO - [4H] BTC-USDT-SWAP 2025-05-08 16:00 整 趋势=uptrend, OB={'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 17:45:46,590 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 17:45:46,590 - INFO - [4H] BTC-USDT-SWAP 2025-05-08 20:00 整 趋势=uptrend, OB={'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 17:45:48,913 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 17:45:48,913 - INFO - [4H] BTC-USDT-SWAP 2025-05-09 00:00 整 趋势=uptrend, OB={'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 17:45:52,331 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 17:45:52,331 - INFO - [4H] BTC-USDT-SWAP 2025-05-09 04:00 整 趋势=uptrend, OB={'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 17:45:53,421 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 96996.7, 'bottom': 96896.0}
+2025-06-06 17:45:53,421 - INFO - [4H] BTC-USDT-SWAP 2025-05-09 08:00 整 趋势=uptrend, OB={'top': 96996.7, 'bottom': 96896.0}
+2025-06-06 17:45:54,886 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 96996.7, 'bottom': 96896.0}
+2025-06-06 17:45:54,887 - INFO - [4H] BTC-USDT-SWAP 2025-05-09 12:00 整 趋势=uptrend, OB={'top': 96996.7, 'bottom': 96896.0}
+2025-06-06 17:45:57,091 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 96996.7, 'bottom': 96896.0}
+2025-06-06 17:45:57,091 - INFO - [4H] BTC-USDT-SWAP 2025-05-09 16:00 整 趋势=uptrend, OB={'top': 96996.7, 'bottom': 96896.0}
+2025-06-06 17:45:58,326 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 96996.7, 'bottom': 96896.0}
+2025-06-06 17:45:58,327 - INFO - [4H] BTC-USDT-SWAP 2025-05-09 20:00 整 趋势=uptrend, OB={'top': 96996.7, 'bottom': 96896.0}
+2025-06-06 17:46:00,957 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 96996.7, 'bottom': 96896.0}
+2025-06-06 17:46:00,958 - INFO - [4H] BTC-USDT-SWAP 2025-05-10 00:00 整 趋势=uptrend, OB={'top': 96996.7, 'bottom': 96896.0}
+2025-06-06 17:46:03,682 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 96996.7, 'bottom': 96896.0}
+2025-06-06 17:46:03,682 - INFO - [4H] BTC-USDT-SWAP 2025-05-10 04:00 整 趋势=uptrend, OB={'top': 96996.7, 'bottom': 96896.0}
+2025-06-06 17:46:04,804 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 96996.7, 'bottom': 96896.0}
+2025-06-06 17:46:04,805 - INFO - [4H] BTC-USDT-SWAP 2025-05-10 08:00 整 趋势=uptrend, OB={'top': 96996.7, 'bottom': 96896.0}
+2025-06-06 17:46:05,741 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 96996.7, 'bottom': 96896.0}
+2025-06-06 17:46:05,742 - INFO - [4H] BTC-USDT-SWAP 2025-05-10 12:00 整 趋势=uptrend, OB={'top': 96996.7, 'bottom': 96896.0}
+2025-06-06 17:46:07,030 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 96996.7, 'bottom': 96896.0}
+2025-06-06 17:46:07,031 - INFO - [4H] BTC-USDT-SWAP 2025-05-10 16:00 整 趋势=uptrend, OB={'top': 96996.7, 'bottom': 96896.0}
+2025-06-06 17:46:08,142 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 96996.7, 'bottom': 96896.0}
+2025-06-06 17:46:08,142 - INFO - [4H] BTC-USDT-SWAP 2025-05-10 20:00 整 趋势=uptrend, OB={'top': 96996.7, 'bottom': 96896.0}
+2025-06-06 17:46:09,263 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 96996.7, 'bottom': 96896.0}
+2025-06-06 17:46:09,263 - INFO - [4H] BTC-USDT-SWAP 2025-05-11 00:00 整 趋势=uptrend, OB={'top': 96996.7, 'bottom': 96896.0}
+2025-06-06 17:46:10,362 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 96996.7, 'bottom': 96896.0}
+2025-06-06 17:46:10,362 - INFO - [4H] BTC-USDT-SWAP 2025-05-11 04:00 整 趋势=uptrend, OB={'top': 96996.7, 'bottom': 96896.0}
+2025-06-06 17:46:11,827 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 17:46:11,827 - INFO - [4H] BTC-USDT-SWAP 2025-05-11 08:00 整 趋势=uptrend, OB={'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 17:46:13,581 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 17:46:13,582 - INFO - [4H] BTC-USDT-SWAP 2025-05-11 12:00 整 趋势=uptrend, OB={'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 17:46:15,036 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 17:46:15,037 - INFO - [4H] BTC-USDT-SWAP 2025-05-11 16:00 整 趋势=uptrend, OB={'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 17:46:16,135 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 17:46:16,135 - INFO - [4H] BTC-USDT-SWAP 2025-05-11 20:00 整 趋势=uptrend, OB={'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 17:46:17,344 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 17:46:17,345 - INFO - [4H] BTC-USDT-SWAP 2025-05-12 00:00 整 趋势=uptrend, OB={'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 17:46:18,350 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 17:46:18,351 - INFO - [4H] BTC-USDT-SWAP 2025-05-12 04:00 整 趋势=uptrend, OB={'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 17:46:20,053 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 17:46:20,053 - INFO - [4H] BTC-USDT-SWAP 2025-05-12 08:00 整 趋势=uptrend, OB={'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 17:46:21,561 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 17:46:21,562 - INFO - [4H] BTC-USDT-SWAP 2025-05-12 12:00 整 趋势=uptrend, OB={'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 17:46:22,740 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 104787.3, 'bottom': 103948.0}
+2025-06-06 17:46:22,743 - INFO - [4H] BTC-USDT-SWAP 2025-05-12 16:00 整 趋势=uptrend, OB={'top': 104787.3, 'bottom': 103948.0}
+2025-06-06 17:46:23,921 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 104787.3, 'bottom': 103948.0}
+2025-06-06 17:46:23,922 - INFO - [4H] BTC-USDT-SWAP 2025-05-12 20:00 整 趋势=uptrend, OB={'top': 104787.3, 'bottom': 103948.0}
+2025-06-06 17:46:24,993 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 104787.3, 'bottom': 103948.0}
+2025-06-06 17:46:24,993 - INFO - [4H] BTC-USDT-SWAP 2025-05-13 00:00 整 趋势=uptrend, OB={'top': 104787.3, 'bottom': 103948.0}
+2025-06-06 17:46:26,321 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:26,321 - INFO - [4H] BTC-USDT-SWAP 2025-05-13 04:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:27,955 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:27,956 - INFO - [4H] BTC-USDT-SWAP 2025-05-13 08:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:29,276 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:29,277 - INFO - [4H] BTC-USDT-SWAP 2025-05-13 12:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:30,937 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:30,937 - INFO - [4H] BTC-USDT-SWAP 2025-05-13 16:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:31,903 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:31,904 - INFO - [4H] BTC-USDT-SWAP 2025-05-13 20:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:34,727 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:34,727 - INFO - [4H] BTC-USDT-SWAP 2025-05-14 00:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:35,946 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:35,946 - INFO - [4H] BTC-USDT-SWAP 2025-05-14 04:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:37,012 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:37,013 - INFO - [4H] BTC-USDT-SWAP 2025-05-14 08:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:38,063 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:38,064 - INFO - [4H] BTC-USDT-SWAP 2025-05-14 12:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:39,039 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:39,039 - INFO - [4H] BTC-USDT-SWAP 2025-05-14 16:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:40,205 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:40,205 - INFO - [4H] BTC-USDT-SWAP 2025-05-14 20:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:41,368 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:41,369 - INFO - [4H] BTC-USDT-SWAP 2025-05-15 00:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:42,799 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:42,799 - INFO - [4H] BTC-USDT-SWAP 2025-05-15 04:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:44,669 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:44,669 - INFO - [4H] BTC-USDT-SWAP 2025-05-15 08:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:45,723 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:45,723 - INFO - [4H] BTC-USDT-SWAP 2025-05-15 12:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:46,921 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:46,921 - INFO - [4H] BTC-USDT-SWAP 2025-05-15 16:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:48,436 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:48,437 - INFO - [4H] BTC-USDT-SWAP 2025-05-15 20:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:49,570 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:49,571 - INFO - [4H] BTC-USDT-SWAP 2025-05-16 00:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:50,675 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:50,676 - INFO - [4H] BTC-USDT-SWAP 2025-05-16 04:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:51,874 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:51,875 - INFO - [4H] BTC-USDT-SWAP 2025-05-16 08:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:53,037 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:53,037 - INFO - [4H] BTC-USDT-SWAP 2025-05-16 12:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:54,802 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:54,803 - INFO - [4H] BTC-USDT-SWAP 2025-05-16 16:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:56,223 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:56,223 - INFO - [4H] BTC-USDT-SWAP 2025-05-16 20:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:57,257 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:57,257 - INFO - [4H] BTC-USDT-SWAP 2025-05-17 00:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:59,675 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:46:59,676 - INFO - [4H] BTC-USDT-SWAP 2025-05-17 04:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:47:02,375 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:47:02,376 - INFO - [4H] BTC-USDT-SWAP 2025-05-17 08:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:47:03,527 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:47:03,528 - INFO - [4H] BTC-USDT-SWAP 2025-05-17 12:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:47:04,637 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:47:04,637 - INFO - [4H] BTC-USDT-SWAP 2025-05-17 16:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:47:05,884 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:47:05,885 - INFO - [4H] BTC-USDT-SWAP 2025-05-17 20:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:47:07,277 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:47:07,278 - INFO - [4H] BTC-USDT-SWAP 2025-05-18 00:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:47:08,343 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:47:08,344 - INFO - [4H] BTC-USDT-SWAP 2025-05-18 04:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:47:11,124 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:47:11,125 - INFO - [4H] BTC-USDT-SWAP 2025-05-18 08:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:47:12,677 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:47:12,678 - INFO - [4H] BTC-USDT-SWAP 2025-05-18 12:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:47:13,806 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:47:13,806 - INFO - [4H] BTC-USDT-SWAP 2025-05-18 16:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:47:14,968 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:47:14,968 - INFO - [4H] BTC-USDT-SWAP 2025-05-18 20:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:47:16,837 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:47:16,837 - INFO - [4H] BTC-USDT-SWAP 2025-05-19 00:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:47:19,597 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:47:19,597 - INFO - [4H] BTC-USDT-SWAP 2025-05-19 04:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:47:20,850 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:47:20,851 - INFO - [4H] BTC-USDT-SWAP 2025-05-19 08:00 整 趋势=downtrend, OB={'top': 104375.1, 'bottom': 104088.1}
+2025-06-06 17:47:22,133 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 105480.6, 'bottom': 103835.7}
+2025-06-06 17:47:22,134 - INFO - [4H] BTC-USDT-SWAP 2025-05-19 12:00 整 趋势=uptrend, OB={'top': 105480.6, 'bottom': 103835.7}
+2025-06-06 17:47:23,144 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 106435.0, 'bottom': 103835.7}
+2025-06-06 17:47:23,145 - INFO - [4H] BTC-USDT-SWAP 2025-05-19 16:00 整 趋势=downtrend, OB={'top': 106435.0, 'bottom': 103835.7}
+2025-06-06 17:47:24,370 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 106435.0, 'bottom': 103835.7}
+2025-06-06 17:47:24,371 - INFO - [4H] BTC-USDT-SWAP 2025-05-19 20:00 整 趋势=downtrend, OB={'top': 106435.0, 'bottom': 103835.7}
+2025-06-06 17:47:28,111 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 106435.0, 'bottom': 103835.7}
+2025-06-06 17:47:28,112 - INFO - [4H] BTC-USDT-SWAP 2025-05-20 00:00 整 趋势=downtrend, OB={'top': 106435.0, 'bottom': 103835.7}
+2025-06-06 17:47:31,613 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 106435.0, 'bottom': 103835.7}
+2025-06-06 17:47:31,613 - INFO - [4H] BTC-USDT-SWAP 2025-05-20 04:00 整 趋势=downtrend, OB={'top': 106435.0, 'bottom': 103835.7}
+2025-06-06 17:47:33,147 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 106435.0, 'bottom': 103835.7}
+2025-06-06 17:47:33,148 - INFO - [4H] BTC-USDT-SWAP 2025-05-20 08:00 整 趋势=downtrend, OB={'top': 106435.0, 'bottom': 103835.7}
+2025-06-06 17:47:34,163 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 106435.0, 'bottom': 103835.7}
+2025-06-06 17:47:34,164 - INFO - [4H] BTC-USDT-SWAP 2025-05-20 12:00 整 趋势=downtrend, OB={'top': 106435.0, 'bottom': 103835.7}
+2025-06-06 17:47:35,290 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 106435.0, 'bottom': 103835.7}
+2025-06-06 17:47:35,290 - INFO - [4H] BTC-USDT-SWAP 2025-05-20 16:00 整 趋势=downtrend, OB={'top': 106435.0, 'bottom': 103835.7}
+2025-06-06 17:47:36,404 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 106435.0, 'bottom': 103835.7}
+2025-06-06 17:47:36,404 - INFO - [4H] BTC-USDT-SWAP 2025-05-20 20:00 整 趋势=downtrend, OB={'top': 106435.0, 'bottom': 103835.7}
+2025-06-06 17:47:38,286 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 106435.0, 'bottom': 103835.7}
+2025-06-06 17:47:38,287 - INFO - [4H] BTC-USDT-SWAP 2025-05-21 00:00 整 趋势=downtrend, OB={'top': 106435.0, 'bottom': 103835.7}
+2025-06-06 17:47:39,627 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 106435.0, 'bottom': 103835.7}
+2025-06-06 17:47:39,628 - INFO - [4H] BTC-USDT-SWAP 2025-05-21 04:00 整 趋势=downtrend, OB={'top': 106435.0, 'bottom': 103835.7}
+2025-06-06 17:47:42,076 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 105729.3, 'bottom': 104990.2}
+2025-06-06 17:47:42,077 - INFO - [4H] BTC-USDT-SWAP 2025-05-21 08:00 整 趋势=uptrend, OB={'top': 105729.3, 'bottom': 104990.2}
+2025-06-06 17:47:43,363 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 105729.3, 'bottom': 104990.2}
+2025-06-06 17:47:43,363 - INFO - [4H] BTC-USDT-SWAP 2025-05-21 12:00 整 趋势=uptrend, OB={'top': 105729.3, 'bottom': 104990.2}
+2025-06-06 17:47:44,489 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 105729.3, 'bottom': 104990.2}
+2025-06-06 17:47:44,489 - INFO - [4H] BTC-USDT-SWAP 2025-05-21 16:00 整 趋势=uptrend, OB={'top': 105729.3, 'bottom': 104990.2}
+2025-06-06 17:47:48,672 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 105729.3, 'bottom': 104990.2}
+2025-06-06 17:47:48,672 - INFO - [4H] BTC-USDT-SWAP 2025-05-21 20:00 整 趋势=uptrend, OB={'top': 105729.3, 'bottom': 104990.2}
+2025-06-06 17:47:51,378 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 105729.3, 'bottom': 104990.2}
+2025-06-06 17:47:51,379 - INFO - [4H] BTC-USDT-SWAP 2025-05-22 00:00 整 趋势=uptrend, OB={'top': 105729.3, 'bottom': 104990.2}
+2025-06-06 17:47:52,534 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 105729.3, 'bottom': 104990.2}
+2025-06-06 17:47:52,534 - INFO - [4H] BTC-USDT-SWAP 2025-05-22 04:00 整 趋势=uptrend, OB={'top': 105729.3, 'bottom': 104990.2}
+2025-06-06 17:47:53,803 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 105729.3, 'bottom': 104990.2}
+2025-06-06 17:47:53,803 - INFO - [4H] BTC-USDT-SWAP 2025-05-22 08:00 整 趋势=uptrend, OB={'top': 105729.3, 'bottom': 104990.2}
+2025-06-06 17:47:59,960 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 106790.4, 'bottom': 106466.1}
+2025-06-06 17:47:59,961 - INFO - [4H] BTC-USDT-SWAP 2025-05-22 12:00 整 趋势=uptrend, OB={'top': 106790.4, 'bottom': 106466.1}
+2025-06-06 17:48:01,170 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 106790.4, 'bottom': 106466.1}
+2025-06-06 17:48:01,171 - INFO - [4H] BTC-USDT-SWAP 2025-05-22 16:00 整 趋势=uptrend, OB={'top': 106790.4, 'bottom': 106466.1}
+2025-06-06 17:48:02,177 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 106790.4, 'bottom': 106466.1}
+2025-06-06 17:48:02,178 - INFO - [4H] BTC-USDT-SWAP 2025-05-22 20:00 整 趋势=uptrend, OB={'top': 106790.4, 'bottom': 106466.1}
+2025-06-06 17:48:06,446 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 106790.4, 'bottom': 106466.1}
+2025-06-06 17:48:06,446 - INFO - [4H] BTC-USDT-SWAP 2025-05-23 00:00 整 趋势=uptrend, OB={'top': 106790.4, 'bottom': 106466.1}
+2025-06-06 17:48:07,876 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 111741.5, 'bottom': 111019.7}
+2025-06-06 17:48:07,876 - INFO - [4H] BTC-USDT-SWAP 2025-05-23 04:00 整 趋势=uptrend, OB={'top': 111741.5, 'bottom': 111019.7}
+2025-06-06 17:48:09,170 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 111741.5, 'bottom': 111019.7}
+2025-06-06 17:48:09,170 - INFO - [4H] BTC-USDT-SWAP 2025-05-23 08:00 整 趋势=uptrend, OB={'top': 111741.5, 'bottom': 111019.7}
+2025-06-06 17:48:12,502 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 111741.5, 'bottom': 111019.7}
+2025-06-06 17:48:12,503 - INFO - [4H] BTC-USDT-SWAP 2025-05-23 12:00 整 趋势=uptrend, OB={'top': 111741.5, 'bottom': 111019.7}
+2025-06-06 17:48:13,576 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 111741.5, 'bottom': 111019.7}
+2025-06-06 17:48:13,577 - INFO - [4H] BTC-USDT-SWAP 2025-05-23 16:00 整 趋势=uptrend, OB={'top': 111741.5, 'bottom': 111019.7}
+2025-06-06 17:48:15,178 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 111741.5, 'bottom': 111019.7}
+2025-06-06 17:48:15,179 - INFO - [4H] BTC-USDT-SWAP 2025-05-23 20:00 整 趋势=uptrend, OB={'top': 111741.5, 'bottom': 111019.7}
+2025-06-06 17:48:16,456 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 111645.9, 'bottom': 111138.0}
+2025-06-06 17:48:16,456 - INFO - [4H] BTC-USDT-SWAP 2025-05-24 00:00 整 趋势=downtrend, OB={'top': 111645.9, 'bottom': 111138.0}
+2025-06-06 17:48:17,634 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 111645.9, 'bottom': 111138.0}
+2025-06-06 17:48:17,634 - INFO - [4H] BTC-USDT-SWAP 2025-05-24 04:00 整 趋势=downtrend, OB={'top': 111645.9, 'bottom': 111138.0}
+2025-06-06 17:48:18,832 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 111645.9, 'bottom': 111138.0}
+2025-06-06 17:48:18,833 - INFO - [4H] BTC-USDT-SWAP 2025-05-24 08:00 整 趋势=downtrend, OB={'top': 111645.9, 'bottom': 111138.0}
+2025-06-06 17:48:21,658 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 111645.9, 'bottom': 111138.0}
+2025-06-06 17:48:21,658 - INFO - [4H] BTC-USDT-SWAP 2025-05-24 12:00 整 趋势=downtrend, OB={'top': 111645.9, 'bottom': 111138.0}
+2025-06-06 17:48:23,657 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 111645.9, 'bottom': 111138.0}
+2025-06-06 17:48:23,657 - INFO - [4H] BTC-USDT-SWAP 2025-05-24 16:00 整 趋势=downtrend, OB={'top': 111645.9, 'bottom': 111138.0}
+2025-06-06 17:48:26,835 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 111645.9, 'bottom': 111138.0}
+2025-06-06 17:48:26,836 - INFO - [4H] BTC-USDT-SWAP 2025-05-24 20:00 整 趋势=downtrend, OB={'top': 111645.9, 'bottom': 111138.0}
+2025-06-06 17:48:27,938 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 111645.9, 'bottom': 111138.0}
+2025-06-06 17:48:27,938 - INFO - [4H] BTC-USDT-SWAP 2025-05-25 00:00 整 趋势=downtrend, OB={'top': 111645.9, 'bottom': 111138.0}
+2025-06-06 17:48:31,308 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 111645.9, 'bottom': 111138.0}
+2025-06-06 17:48:31,309 - INFO - [4H] BTC-USDT-SWAP 2025-05-25 04:00 整 趋势=downtrend, OB={'top': 111645.9, 'bottom': 111138.0}
+2025-06-06 17:48:32,365 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 111645.9, 'bottom': 111138.0}
+2025-06-06 17:48:32,366 - INFO - [4H] BTC-USDT-SWAP 2025-05-25 08:00 整 趋势=downtrend, OB={'top': 111645.9, 'bottom': 111138.0}
+2025-06-06 17:48:33,458 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 111645.9, 'bottom': 111138.0}
+2025-06-06 17:48:33,482 - INFO - [4H] BTC-USDT-SWAP 2025-05-25 12:00 整 趋势=downtrend, OB={'top': 111645.9, 'bottom': 111138.0}
+2025-06-06 17:48:34,587 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 111645.9, 'bottom': 111138.0}
+2025-06-06 17:48:34,588 - INFO - [4H] BTC-USDT-SWAP 2025-05-25 16:00 整 趋势=downtrend, OB={'top': 111645.9, 'bottom': 111138.0}
+2025-06-06 17:48:35,876 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 111645.9, 'bottom': 111138.0}
+2025-06-06 17:48:35,876 - INFO - [4H] BTC-USDT-SWAP 2025-05-25 20:00 整 趋势=downtrend, OB={'top': 111645.9, 'bottom': 111138.0}
+2025-06-06 17:48:37,063 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 108330.1, 'bottom': 107272.3}
+2025-06-06 17:48:37,064 - INFO - [4H] BTC-USDT-SWAP 2025-05-26 00:00 整 趋势=downtrend, OB={'top': 108330.1, 'bottom': 107272.3}
+2025-06-06 17:48:42,358 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 108330.1, 'bottom': 107272.3}
+2025-06-06 17:48:42,358 - INFO - [4H] BTC-USDT-SWAP 2025-05-26 04:00 整 趋势=downtrend, OB={'top': 108330.1, 'bottom': 107272.3}
+2025-06-06 17:48:45,816 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 108330.1, 'bottom': 107272.3}
+2025-06-06 17:48:45,817 - INFO - [4H] BTC-USDT-SWAP 2025-05-26 08:00 整 趋势=downtrend, OB={'top': 108330.1, 'bottom': 107272.3}
+2025-06-06 17:48:50,132 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 108330.1, 'bottom': 107272.3}
+2025-06-06 17:48:50,133 - INFO - [4H] BTC-USDT-SWAP 2025-05-26 12:00 整 趋势=downtrend, OB={'top': 108330.1, 'bottom': 107272.3}
+2025-06-06 17:48:51,312 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 107634.3, 'bottom': 107223.0}
+2025-06-06 17:48:51,313 - INFO - [4H] BTC-USDT-SWAP 2025-05-26 16:00 整 趋势=uptrend, OB={'top': 107634.3, 'bottom': 107223.0}
+2025-06-06 17:48:52,367 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 107634.3, 'bottom': 107223.0}
+2025-06-06 17:48:52,368 - INFO - [4H] BTC-USDT-SWAP 2025-05-26 20:00 整 趋势=uptrend, OB={'top': 107634.3, 'bottom': 107223.0}
+2025-06-06 17:48:53,602 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 107634.3, 'bottom': 107223.0}
+2025-06-06 17:48:53,603 - INFO - [4H] BTC-USDT-SWAP 2025-05-27 00:00 整 趋势=uptrend, OB={'top': 107634.3, 'bottom': 107223.0}
+2025-06-06 17:48:54,912 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 107634.3, 'bottom': 107223.0}
+2025-06-06 17:48:54,913 - INFO - [4H] BTC-USDT-SWAP 2025-05-27 04:00 整 趋势=uptrend, OB={'top': 107634.3, 'bottom': 107223.0}
+2025-06-06 17:48:56,078 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 107634.3, 'bottom': 107223.0}
+2025-06-06 17:48:56,078 - INFO - [4H] BTC-USDT-SWAP 2025-05-27 08:00 整 趋势=uptrend, OB={'top': 107634.3, 'bottom': 107223.0}
+2025-06-06 17:48:57,234 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 107634.3, 'bottom': 107223.0}
+2025-06-06 17:48:57,234 - INFO - [4H] BTC-USDT-SWAP 2025-05-27 12:00 整 趋势=uptrend, OB={'top': 107634.3, 'bottom': 107223.0}
+2025-06-06 17:48:58,273 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 107634.3, 'bottom': 107223.0}
+2025-06-06 17:48:58,273 - INFO - [4H] BTC-USDT-SWAP 2025-05-27 16:00 整 趋势=uptrend, OB={'top': 107634.3, 'bottom': 107223.0}
+2025-06-06 17:48:59,850 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 107634.3, 'bottom': 107223.0}
+2025-06-06 17:48:59,851 - INFO - [4H] BTC-USDT-SWAP 2025-05-27 20:00 整 趋势=uptrend, OB={'top': 107634.3, 'bottom': 107223.0}
+2025-06-06 17:49:01,917 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 109950.5, 'bottom': 109085.7}
+2025-06-06 17:49:01,917 - INFO - [4H] BTC-USDT-SWAP 2025-05-28 00:00 整 趋势=uptrend, OB={'top': 109950.5, 'bottom': 109085.7}
+2025-06-06 17:49:04,600 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 109950.5, 'bottom': 109085.7}
+2025-06-06 17:49:04,601 - INFO - [4H] BTC-USDT-SWAP 2025-05-28 04:00 整 趋势=uptrend, OB={'top': 109950.5, 'bottom': 109085.7}
+2025-06-06 17:49:05,603 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 109950.5, 'bottom': 109085.7}
+2025-06-06 17:49:05,604 - INFO - [4H] BTC-USDT-SWAP 2025-05-28 08:00 整 趋势=uptrend, OB={'top': 109950.5, 'bottom': 109085.7}
+2025-06-06 17:49:06,961 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 109950.5, 'bottom': 109085.7}
+2025-06-06 17:49:06,962 - INFO - [4H] BTC-USDT-SWAP 2025-05-28 12:00 整 趋势=uptrend, OB={'top': 109950.5, 'bottom': 109085.7}
+2025-06-06 17:49:08,037 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 109950.5, 'bottom': 109085.7}
+2025-06-06 17:49:08,038 - INFO - [4H] BTC-USDT-SWAP 2025-05-28 16:00 整 趋势=uptrend, OB={'top': 109950.5, 'bottom': 109085.7}
+2025-06-06 17:49:09,011 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 109950.5, 'bottom': 109085.7}
+2025-06-06 17:49:09,011 - INFO - [4H] BTC-USDT-SWAP 2025-05-28 20:00 整 趋势=uptrend, OB={'top': 109950.5, 'bottom': 109085.7}
+2025-06-06 17:49:10,048 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 109950.5, 'bottom': 109085.7}
+2025-06-06 17:49:10,049 - INFO - [4H] BTC-USDT-SWAP 2025-05-29 00:00 整 趋势=uptrend, OB={'top': 109950.5, 'bottom': 109085.7}
+2025-06-06 17:49:11,283 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 109950.5, 'bottom': 109085.7}
+2025-06-06 17:49:11,283 - INFO - [4H] BTC-USDT-SWAP 2025-05-29 04:00 整 趋势=uptrend, OB={'top': 109950.5, 'bottom': 109085.7}
+2025-06-06 17:49:12,778 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 110104.0, 'bottom': 109546.2}
+2025-06-06 17:49:12,779 - INFO - [4H] BTC-USDT-SWAP 2025-05-29 08:00 整 趋势=downtrend, OB={'top': 110104.0, 'bottom': 109546.2}
+2025-06-06 17:49:13,897 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 110104.0, 'bottom': 109546.2}
+2025-06-06 17:49:13,897 - INFO - [4H] BTC-USDT-SWAP 2025-05-29 12:00 整 趋势=downtrend, OB={'top': 110104.0, 'bottom': 109546.2}
+2025-06-06 17:49:15,044 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 110104.0, 'bottom': 109546.2}
+2025-06-06 17:49:15,044 - INFO - [4H] BTC-USDT-SWAP 2025-05-29 16:00 整 趋势=downtrend, OB={'top': 110104.0, 'bottom': 109546.2}
+2025-06-06 17:49:20,638 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 110104.0, 'bottom': 109546.2}
+2025-06-06 17:49:20,638 - INFO - [4H] BTC-USDT-SWAP 2025-05-29 20:00 整 趋势=downtrend, OB={'top': 110104.0, 'bottom': 109546.2}
+2025-06-06 17:49:21,695 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 110104.0, 'bottom': 109546.2}
+2025-06-06 17:49:21,695 - INFO - [4H] BTC-USDT-SWAP 2025-05-30 00:00 整 趋势=downtrend, OB={'top': 110104.0, 'bottom': 109546.2}
+2025-06-06 17:49:22,764 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 110104.0, 'bottom': 109546.2}
+2025-06-06 17:49:22,765 - INFO - [4H] BTC-USDT-SWAP 2025-05-30 04:00 整 趋势=downtrend, OB={'top': 110104.0, 'bottom': 109546.2}
+2025-06-06 17:49:24,766 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 110104.0, 'bottom': 109546.2}
+2025-06-06 17:49:24,766 - INFO - [4H] BTC-USDT-SWAP 2025-05-30 08:00 整 趋势=downtrend, OB={'top': 110104.0, 'bottom': 109546.2}
+2025-06-06 17:49:25,877 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 107990.0, 'bottom': 107720.7}
+2025-06-06 17:49:25,878 - INFO - [4H] BTC-USDT-SWAP 2025-05-30 12:00 整 趋势=downtrend, OB={'top': 107990.0, 'bottom': 107720.7}
+2025-06-06 17:49:27,787 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 107990.0, 'bottom': 107720.7}
+2025-06-06 17:49:27,788 - INFO - [4H] BTC-USDT-SWAP 2025-05-30 16:00 整 趋势=downtrend, OB={'top': 107990.0, 'bottom': 107720.7}
+2025-06-06 17:49:29,362 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 107990.0, 'bottom': 107720.7}
+2025-06-06 17:49:29,362 - INFO - [4H] BTC-USDT-SWAP 2025-05-30 20:00 整 趋势=downtrend, OB={'top': 107990.0, 'bottom': 107720.7}
+2025-06-06 17:49:30,478 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 107990.0, 'bottom': 107720.7}
+2025-06-06 17:49:30,478 - INFO - [4H] BTC-USDT-SWAP 2025-05-31 00:00 整 趋势=downtrend, OB={'top': 107990.0, 'bottom': 107720.7}
+2025-06-06 17:49:31,662 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 107990.0, 'bottom': 107720.7}
+2025-06-06 17:49:31,663 - INFO - [4H] BTC-USDT-SWAP 2025-05-31 04:00 整 趋势=downtrend, OB={'top': 107990.0, 'bottom': 107720.7}
+2025-06-06 17:49:32,964 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 107990.0, 'bottom': 107720.7}
+2025-06-06 17:49:32,964 - INFO - [4H] BTC-USDT-SWAP 2025-05-31 08:00 整 趋势=downtrend, OB={'top': 107990.0, 'bottom': 107720.7}
+2025-06-06 17:49:36,063 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:36,064 - INFO - [4H] BTC-USDT-SWAP 2025-05-31 12:00 整 趋势=downtrend, OB={'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:37,238 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:37,238 - INFO - [4H] BTC-USDT-SWAP 2025-05-31 16:00 整 趋势=downtrend, OB={'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:38,343 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:38,343 - INFO - [4H] BTC-USDT-SWAP 2025-05-31 20:00 整 趋势=downtrend, OB={'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:39,571 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:39,572 - INFO - [4H] BTC-USDT-SWAP 2025-06-01 00:00 整 趋势=downtrend, OB={'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:40,671 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:40,672 - INFO - [4H] BTC-USDT-SWAP 2025-06-01 04:00 整 趋势=downtrend, OB={'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:41,756 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:41,756 - INFO - [4H] BTC-USDT-SWAP 2025-06-01 08:00 整 趋势=downtrend, OB={'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:42,965 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:42,966 - INFO - [4H] BTC-USDT-SWAP 2025-06-01 12:00 整 趋势=downtrend, OB={'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:44,236 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:44,237 - INFO - [4H] BTC-USDT-SWAP 2025-06-01 16:00 整 趋势=downtrend, OB={'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:45,583 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:45,584 - INFO - [4H] BTC-USDT-SWAP 2025-06-01 20:00 整 趋势=downtrend, OB={'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:48,778 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:48,778 - INFO - [4H] BTC-USDT-SWAP 2025-06-02 00:00 整 趋势=downtrend, OB={'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:49,925 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:49,925 - INFO - [4H] BTC-USDT-SWAP 2025-06-02 04:00 整 趋势=downtrend, OB={'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:50,936 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:50,936 - INFO - [4H] BTC-USDT-SWAP 2025-06-02 08:00 整 趋势=downtrend, OB={'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:52,238 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:52,238 - INFO - [4H] BTC-USDT-SWAP 2025-06-02 12:00 整 趋势=downtrend, OB={'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:53,555 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:53,556 - INFO - [4H] BTC-USDT-SWAP 2025-06-02 16:00 整 趋势=downtrend, OB={'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:54,967 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:54,967 - INFO - [4H] BTC-USDT-SWAP 2025-06-02 20:00 整 趋势=downtrend, OB={'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:56,614 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:56,615 - INFO - [4H] BTC-USDT-SWAP 2025-06-03 00:00 整 趋势=downtrend, OB={'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:57,736 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:57,736 - INFO - [4H] BTC-USDT-SWAP 2025-06-03 04:00 整 趋势=downtrend, OB={'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:59,441 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:49:59,442 - INFO - [4H] BTC-USDT-SWAP 2025-06-03 08:00 整 趋势=downtrend, OB={'top': 105975.0, 'bottom': 105548.3}
+2025-06-06 17:50:00,720 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 105346.9, 'bottom': 104008.5}
+2025-06-06 17:50:00,720 - INFO - [4H] BTC-USDT-SWAP 2025-06-03 12:00 整 趋势=uptrend, OB={'top': 105346.9, 'bottom': 104008.5}
+2025-06-06 17:50:01,878 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 105346.9, 'bottom': 104008.5}
+2025-06-06 17:50:01,878 - INFO - [4H] BTC-USDT-SWAP 2025-06-03 16:00 整 趋势=uptrend, OB={'top': 105346.9, 'bottom': 104008.5}
+2025-06-06 17:50:03,149 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 105346.9, 'bottom': 104008.5}
+2025-06-06 17:50:03,150 - INFO - [4H] BTC-USDT-SWAP 2025-06-03 20:00 整 趋势=uptrend, OB={'top': 105346.9, 'bottom': 104008.5}
+2025-06-06 17:50:04,155 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 105451.9, 'bottom': 105145.9}
+2025-06-06 17:50:04,156 - INFO - [4H] BTC-USDT-SWAP 2025-06-04 00:00 整 趋势=uptrend, OB={'top': 105451.9, 'bottom': 105145.9}
+2025-06-06 17:50:05,416 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 105451.9, 'bottom': 105145.9}
+2025-06-06 17:50:05,416 - INFO - [4H] BTC-USDT-SWAP 2025-06-04 04:00 整 趋势=uptrend, OB={'top': 105451.9, 'bottom': 105145.9}
+2025-06-06 17:50:16,637 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 105451.9, 'bottom': 105145.9}
+2025-06-06 17:50:16,637 - INFO - [4H] BTC-USDT-SWAP 2025-06-04 08:00 整 趋势=uptrend, OB={'top': 105451.9, 'bottom': 105145.9}
+2025-06-06 17:50:17,876 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 105451.9, 'bottom': 105145.9}
+2025-06-06 17:50:17,877 - INFO - [4H] BTC-USDT-SWAP 2025-06-04 12:00 整 趋势=uptrend, OB={'top': 105451.9, 'bottom': 105145.9}
+2025-06-06 17:50:19,279 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 105451.9, 'bottom': 105145.9}
+2025-06-06 17:50:19,280 - INFO - [4H] BTC-USDT-SWAP 2025-06-04 16:00 整 趋势=uptrend, OB={'top': 105451.9, 'bottom': 105145.9}
+2025-06-06 17:50:21,650 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 105451.9, 'bottom': 105145.9}
+2025-06-06 17:50:21,650 - INFO - [4H] BTC-USDT-SWAP 2025-06-04 20:00 整 趋势=uptrend, OB={'top': 105451.9, 'bottom': 105145.9}
+2025-06-06 17:50:22,875 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 105484.0, 'bottom': 105339.5}
+2025-06-06 17:50:22,875 - INFO - [4H] BTC-USDT-SWAP 2025-06-05 00:00 整 趋势=downtrend, OB={'top': 105484.0, 'bottom': 105339.5}
+2025-06-06 17:50:24,138 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 105484.0, 'bottom': 105339.5}
+2025-06-06 17:50:24,138 - INFO - [4H] BTC-USDT-SWAP 2025-06-05 04:00 整 趋势=downtrend, OB={'top': 105484.0, 'bottom': 105339.5}
+2025-06-06 17:50:26,017 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 105484.0, 'bottom': 105339.5}
+2025-06-06 17:50:26,018 - INFO - [4H] BTC-USDT-SWAP 2025-06-05 08:00 整 趋势=downtrend, OB={'top': 105484.0, 'bottom': 105339.5}
+2025-06-06 17:50:27,842 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 105484.0, 'bottom': 105339.5}
+2025-06-06 17:50:27,842 - INFO - [4H] BTC-USDT-SWAP 2025-06-05 12:00 整 趋势=downtrend, OB={'top': 105484.0, 'bottom': 105339.5}
+2025-06-06 17:50:30,103 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 105484.0, 'bottom': 105339.5}
+2025-06-06 17:50:30,104 - INFO - [4H] BTC-USDT-SWAP 2025-06-05 16:00 整 趋势=downtrend, OB={'top': 105484.0, 'bottom': 105339.5}
+2025-06-06 17:50:35,035 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 105484.0, 'bottom': 105339.5}
+2025-06-06 17:50:35,036 - INFO - [4H] BTC-USDT-SWAP 2025-06-05 20:00 整 趋势=downtrend, OB={'top': 105484.0, 'bottom': 105339.5}
+2025-06-06 17:50:36,137 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 105484.0, 'bottom': 105339.5}
+2025-06-06 17:50:36,137 - INFO - [4H] BTC-USDT-SWAP 2025-06-06 00:00 整 趋势=downtrend, OB={'top': 105484.0, 'bottom': 105339.5}
+2025-06-06 17:50:39,040 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 105484.0, 'bottom': 105339.5}
+2025-06-06 17:50:39,041 - INFO - [4H] BTC-USDT-SWAP 2025-06-06 04:00 整 趋势=downtrend, OB={'top': 105484.0, 'bottom': 105339.5}
+2025-06-06 17:50:41,445 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104770.1, 'bottom': 104478.6}
+2025-06-06 17:50:41,446 - INFO - [4H] BTC-USDT-SWAP 2025-06-06 08:00 整 趋势=downtrend, OB={'top': 104770.1, 'bottom': 104478.6}
+2025-06-06 17:50:43,206 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104770.1, 'bottom': 104478.6}
+2025-06-06 17:50:43,207 - INFO - [4H] BTC-USDT-SWAP 2025-06-06 12:00 整 趋势=downtrend, OB={'top': 104770.1, 'bottom': 104478.6}
+2025-06-06 17:50:44,248 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104770.1, 'bottom': 104478.6}
+2025-06-06 17:50:44,249 - INFO - [4H] BTC-USDT-SWAP 2025-06-06 16:00 整 趋势=downtrend, OB={'top': 104770.1, 'bottom': 104478.6}
+2025-06-06 17:50:48,645 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:50:48,645 - INFO - [4H] ETH-USDT-SWAP 2025-05-04 12:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:50:49,743 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:50:49,743 - INFO - [4H] ETH-USDT-SWAP 2025-05-04 16:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:50:50,813 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:50:50,814 - INFO - [4H] ETH-USDT-SWAP 2025-05-04 20:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:50:53,625 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:50:53,626 - INFO - [4H] ETH-USDT-SWAP 2025-05-05 00:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:50:57,035 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:50:57,036 - INFO - [4H] ETH-USDT-SWAP 2025-05-05 04:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:50:58,055 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:50:58,055 - INFO - [4H] ETH-USDT-SWAP 2025-05-05 08:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:50:59,499 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:50:59,499 - INFO - [4H] ETH-USDT-SWAP 2025-05-05 12:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:00,766 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:00,766 - INFO - [4H] ETH-USDT-SWAP 2025-05-05 16:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:01,904 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:01,904 - INFO - [4H] ETH-USDT-SWAP 2025-05-05 20:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:03,363 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:03,363 - INFO - [4H] ETH-USDT-SWAP 2025-05-06 00:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:07,202 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:07,202 - INFO - [4H] ETH-USDT-SWAP 2025-05-06 04:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:08,213 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:08,213 - INFO - [4H] ETH-USDT-SWAP 2025-05-06 08:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:09,525 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:09,526 - INFO - [4H] ETH-USDT-SWAP 2025-05-06 12:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:10,891 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:10,891 - INFO - [4H] ETH-USDT-SWAP 2025-05-06 16:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:12,263 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:12,264 - INFO - [4H] ETH-USDT-SWAP 2025-05-06 20:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:13,496 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:13,496 - INFO - [4H] ETH-USDT-SWAP 2025-05-07 00:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:14,717 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:14,718 - INFO - [4H] ETH-USDT-SWAP 2025-05-07 04:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:15,871 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:15,871 - INFO - [4H] ETH-USDT-SWAP 2025-05-07 08:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:17,461 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:17,461 - INFO - [4H] ETH-USDT-SWAP 2025-05-07 12:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:18,666 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:18,666 - INFO - [4H] ETH-USDT-SWAP 2025-05-07 16:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:19,852 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:19,852 - INFO - [4H] ETH-USDT-SWAP 2025-05-07 20:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:21,339 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:21,339 - INFO - [4H] ETH-USDT-SWAP 2025-05-08 00:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:22,411 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:22,412 - INFO - [4H] ETH-USDT-SWAP 2025-05-08 04:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:23,659 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:23,659 - INFO - [4H] ETH-USDT-SWAP 2025-05-08 08:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:24,963 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:24,963 - INFO - [4H] ETH-USDT-SWAP 2025-05-08 12:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:26,079 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:26,079 - INFO - [4H] ETH-USDT-SWAP 2025-05-08 16:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:28,581 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:28,582 - INFO - [4H] ETH-USDT-SWAP 2025-05-08 20:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:31,760 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:31,761 - INFO - [4H] ETH-USDT-SWAP 2025-05-09 00:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:32,734 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:32,735 - INFO - [4H] ETH-USDT-SWAP 2025-05-09 04:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:34,354 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:34,354 - INFO - [4H] ETH-USDT-SWAP 2025-05-09 08:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:36,062 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:36,062 - INFO - [4H] ETH-USDT-SWAP 2025-05-09 12:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:37,239 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:37,239 - INFO - [4H] ETH-USDT-SWAP 2025-05-09 16:00 整 趋势=uptrend, OB={'top': 1808.0, 'bottom': 1795.79}
+2025-06-06 17:51:38,495 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1805.03, 'bottom': 1769.47}
+2025-06-06 17:51:38,495 - INFO - [4H] ETH-USDT-SWAP 2025-05-09 20:00 整 趋势=uptrend, OB={'top': 1805.03, 'bottom': 1769.47}
+2025-06-06 17:51:40,001 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1805.03, 'bottom': 1769.47}
+2025-06-06 17:51:40,001 - INFO - [4H] ETH-USDT-SWAP 2025-05-10 00:00 整 趋势=uptrend, OB={'top': 1805.03, 'bottom': 1769.47}
+2025-06-06 17:51:41,336 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1805.03, 'bottom': 1769.47}
+2025-06-06 17:51:41,336 - INFO - [4H] ETH-USDT-SWAP 2025-05-10 04:00 整 趋势=uptrend, OB={'top': 1805.03, 'bottom': 1769.47}
+2025-06-06 17:51:43,115 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1805.03, 'bottom': 1769.47}
+2025-06-06 17:51:43,116 - INFO - [4H] ETH-USDT-SWAP 2025-05-10 08:00 整 趋势=uptrend, OB={'top': 1805.03, 'bottom': 1769.47}
+2025-06-06 17:51:45,434 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1805.03, 'bottom': 1769.47}
+2025-06-06 17:51:45,435 - INFO - [4H] ETH-USDT-SWAP 2025-05-10 12:00 整 趋势=uptrend, OB={'top': 1805.03, 'bottom': 1769.47}
+2025-06-06 17:51:46,604 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1805.03, 'bottom': 1769.47}
+2025-06-06 17:51:46,605 - INFO - [4H] ETH-USDT-SWAP 2025-05-10 16:00 整 趋势=uptrend, OB={'top': 1805.03, 'bottom': 1769.47}
+2025-06-06 17:51:49,396 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1805.03, 'bottom': 1769.47}
+2025-06-06 17:51:49,397 - INFO - [4H] ETH-USDT-SWAP 2025-05-10 20:00 整 趋势=uptrend, OB={'top': 1805.03, 'bottom': 1769.47}
+2025-06-06 17:51:50,886 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1805.03, 'bottom': 1769.47}
+2025-06-06 17:51:50,887 - INFO - [4H] ETH-USDT-SWAP 2025-05-11 00:00 整 趋势=uptrend, OB={'top': 1805.03, 'bottom': 1769.47}
+2025-06-06 17:51:52,143 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1805.03, 'bottom': 1769.47}
+2025-06-06 17:51:52,144 - INFO - [4H] ETH-USDT-SWAP 2025-05-11 04:00 整 趋势=uptrend, OB={'top': 1805.03, 'bottom': 1769.47}
+2025-06-06 17:51:54,327 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 1805.03, 'bottom': 1769.47}
+2025-06-06 17:51:54,328 - INFO - [4H] ETH-USDT-SWAP 2025-05-11 08:00 整 趋势=uptrend, OB={'top': 1805.03, 'bottom': 1769.47}
+2025-06-06 17:51:55,451 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2363.19, 'bottom': 2350.31}
+2025-06-06 17:51:55,451 - INFO - [4H] ETH-USDT-SWAP 2025-05-11 12:00 整 趋势=uptrend, OB={'top': 2363.19, 'bottom': 2350.31}
+2025-06-06 17:51:57,168 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2363.19, 'bottom': 2350.31}
+2025-06-06 17:51:57,168 - INFO - [4H] ETH-USDT-SWAP 2025-05-11 16:00 整 趋势=uptrend, OB={'top': 2363.19, 'bottom': 2350.31}
+2025-06-06 17:51:59,481 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2363.19, 'bottom': 2350.31}
+2025-06-06 17:51:59,482 - INFO - [4H] ETH-USDT-SWAP 2025-05-11 20:00 整 趋势=uptrend, OB={'top': 2363.19, 'bottom': 2350.31}
+2025-06-06 17:52:00,744 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2363.19, 'bottom': 2350.31}
+2025-06-06 17:52:00,745 - INFO - [4H] ETH-USDT-SWAP 2025-05-12 00:00 整 趋势=uptrend, OB={'top': 2363.19, 'bottom': 2350.31}
+2025-06-06 17:52:02,284 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2363.19, 'bottom': 2350.31}
+2025-06-06 17:52:02,285 - INFO - [4H] ETH-USDT-SWAP 2025-05-12 04:00 整 趋势=uptrend, OB={'top': 2363.19, 'bottom': 2350.31}
+2025-06-06 17:52:03,946 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2363.19, 'bottom': 2350.31}
+2025-06-06 17:52:03,946 - INFO - [4H] ETH-USDT-SWAP 2025-05-12 08:00 整 趋势=uptrend, OB={'top': 2363.19, 'bottom': 2350.31}
+2025-06-06 17:52:07,527 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2363.19, 'bottom': 2350.31}
+2025-06-06 17:52:07,528 - INFO - [4H] ETH-USDT-SWAP 2025-05-12 12:00 整 趋势=uptrend, OB={'top': 2363.19, 'bottom': 2350.31}
+2025-06-06 17:52:09,108 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2536.4, 'bottom': 2472.62}
+2025-06-06 17:52:09,109 - INFO - [4H] ETH-USDT-SWAP 2025-05-12 16:00 整 趋势=uptrend, OB={'top': 2536.4, 'bottom': 2472.62}
+2025-06-06 17:52:10,349 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2536.4, 'bottom': 2472.62}
+2025-06-06 17:52:10,349 - INFO - [4H] ETH-USDT-SWAP 2025-05-12 20:00 整 趋势=uptrend, OB={'top': 2536.4, 'bottom': 2472.62}
+2025-06-06 17:52:12,755 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2536.4, 'bottom': 2472.62}
+2025-06-06 17:52:12,755 - INFO - [4H] ETH-USDT-SWAP 2025-05-13 00:00 整 趋势=uptrend, OB={'top': 2536.4, 'bottom': 2472.62}
+2025-06-06 17:52:15,544 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2518.86, 'bottom': 2513.37}
+2025-06-06 17:52:15,545 - INFO - [4H] ETH-USDT-SWAP 2025-05-13 04:00 整 趋势=downtrend, OB={'top': 2518.86, 'bottom': 2513.37}
+2025-06-06 17:52:17,448 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2518.86, 'bottom': 2513.37}
+2025-06-06 17:52:17,449 - INFO - [4H] ETH-USDT-SWAP 2025-05-13 08:00 整 趋势=downtrend, OB={'top': 2518.86, 'bottom': 2513.37}
+2025-06-06 17:52:19,240 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2518.86, 'bottom': 2513.37}
+2025-06-06 17:52:19,240 - INFO - [4H] ETH-USDT-SWAP 2025-05-13 12:00 整 趋势=downtrend, OB={'top': 2518.86, 'bottom': 2513.37}
+2025-06-06 17:52:20,280 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2518.86, 'bottom': 2513.37}
+2025-06-06 17:52:20,281 - INFO - [4H] ETH-USDT-SWAP 2025-05-13 16:00 整 趋势=downtrend, OB={'top': 2518.86, 'bottom': 2513.37}
+2025-06-06 17:52:21,483 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2518.86, 'bottom': 2513.37}
+2025-06-06 17:52:21,484 - INFO - [4H] ETH-USDT-SWAP 2025-05-13 20:00 整 趋势=downtrend, OB={'top': 2518.86, 'bottom': 2513.37}
+2025-06-06 17:52:22,576 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2518.86, 'bottom': 2513.37}
+2025-06-06 17:52:22,577 - INFO - [4H] ETH-USDT-SWAP 2025-05-14 00:00 整 趋势=downtrend, OB={'top': 2518.86, 'bottom': 2513.37}
+2025-06-06 17:52:23,677 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:23,678 - INFO - [4H] ETH-USDT-SWAP 2025-05-14 04:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:25,948 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:25,948 - INFO - [4H] ETH-USDT-SWAP 2025-05-14 08:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:27,160 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:27,161 - INFO - [4H] ETH-USDT-SWAP 2025-05-14 12:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:28,346 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:28,346 - INFO - [4H] ETH-USDT-SWAP 2025-05-14 16:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:29,448 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:29,448 - INFO - [4H] ETH-USDT-SWAP 2025-05-14 20:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:31,445 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:31,445 - INFO - [4H] ETH-USDT-SWAP 2025-05-15 00:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:32,499 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:32,499 - INFO - [4H] ETH-USDT-SWAP 2025-05-15 04:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:34,076 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:34,077 - INFO - [4H] ETH-USDT-SWAP 2025-05-15 08:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:35,257 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:35,258 - INFO - [4H] ETH-USDT-SWAP 2025-05-15 12:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:37,096 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:37,097 - INFO - [4H] ETH-USDT-SWAP 2025-05-15 16:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:38,076 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:38,077 - INFO - [4H] ETH-USDT-SWAP 2025-05-15 20:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:39,264 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:39,264 - INFO - [4H] ETH-USDT-SWAP 2025-05-16 00:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:40,816 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:40,816 - INFO - [4H] ETH-USDT-SWAP 2025-05-16 04:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:41,880 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:41,881 - INFO - [4H] ETH-USDT-SWAP 2025-05-16 08:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:43,467 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:43,467 - INFO - [4H] ETH-USDT-SWAP 2025-05-16 12:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:44,698 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:44,698 - INFO - [4H] ETH-USDT-SWAP 2025-05-16 16:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:45,956 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:45,957 - INFO - [4H] ETH-USDT-SWAP 2025-05-16 20:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:47,034 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:47,035 - INFO - [4H] ETH-USDT-SWAP 2025-05-17 00:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:48,356 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:48,356 - INFO - [4H] ETH-USDT-SWAP 2025-05-17 04:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:49,813 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:49,813 - INFO - [4H] ETH-USDT-SWAP 2025-05-17 08:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:51,044 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:51,045 - INFO - [4H] ETH-USDT-SWAP 2025-05-17 12:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:52,516 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:52,517 - INFO - [4H] ETH-USDT-SWAP 2025-05-17 16:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:53,710 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:53,710 - INFO - [4H] ETH-USDT-SWAP 2025-05-17 20:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:54,953 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:54,954 - INFO - [4H] ETH-USDT-SWAP 2025-05-18 00:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:56,350 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:56,350 - INFO - [4H] ETH-USDT-SWAP 2025-05-18 04:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:57,532 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:57,533 - INFO - [4H] ETH-USDT-SWAP 2025-05-18 08:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:58,571 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:58,571 - INFO - [4H] ETH-USDT-SWAP 2025-05-18 12:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:59,781 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:52:59,781 - INFO - [4H] ETH-USDT-SWAP 2025-05-18 16:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:53:00,833 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:53:00,833 - INFO - [4H] ETH-USDT-SWAP 2025-05-18 20:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:53:02,164 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:53:02,165 - INFO - [4H] ETH-USDT-SWAP 2025-05-19 00:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:53:03,411 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:53:03,411 - INFO - [4H] ETH-USDT-SWAP 2025-05-19 04:00 整 趋势=uptrend, OB={'top': 2528.87, 'bottom': 2486.53}
+2025-06-06 17:53:05,225 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:05,226 - INFO - [4H] ETH-USDT-SWAP 2025-05-19 08:00 整 趋势=downtrend, OB={'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:06,805 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:06,805 - INFO - [4H] ETH-USDT-SWAP 2025-05-19 12:00 整 趋势=downtrend, OB={'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:07,858 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:07,859 - INFO - [4H] ETH-USDT-SWAP 2025-05-19 16:00 整 趋势=downtrend, OB={'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:09,086 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:09,087 - INFO - [4H] ETH-USDT-SWAP 2025-05-19 20:00 整 趋势=downtrend, OB={'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:10,334 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:10,335 - INFO - [4H] ETH-USDT-SWAP 2025-05-20 00:00 整 趋势=downtrend, OB={'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:11,574 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:11,574 - INFO - [4H] ETH-USDT-SWAP 2025-05-20 04:00 整 趋势=downtrend, OB={'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:12,783 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:12,784 - INFO - [4H] ETH-USDT-SWAP 2025-05-20 08:00 整 趋势=downtrend, OB={'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:14,181 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:14,181 - INFO - [4H] ETH-USDT-SWAP 2025-05-20 12:00 整 趋势=downtrend, OB={'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:15,365 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:15,366 - INFO - [4H] ETH-USDT-SWAP 2025-05-20 16:00 整 趋势=downtrend, OB={'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:17,402 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:17,402 - INFO - [4H] ETH-USDT-SWAP 2025-05-20 20:00 整 趋势=downtrend, OB={'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:18,510 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:18,510 - INFO - [4H] ETH-USDT-SWAP 2025-05-21 00:00 整 趋势=downtrend, OB={'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:27,801 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:27,801 - INFO - [4H] ETH-USDT-SWAP 2025-05-21 04:00 整 趋势=downtrend, OB={'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:28,976 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:28,977 - INFO - [4H] ETH-USDT-SWAP 2025-05-21 08:00 整 趋势=downtrend, OB={'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:30,038 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:30,039 - INFO - [4H] ETH-USDT-SWAP 2025-05-21 12:00 整 趋势=downtrend, OB={'top': 2508.44, 'bottom': 2476.43}
+2025-06-06 17:53:31,152 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2513.09, 'bottom': 2481.54}
+2025-06-06 17:53:31,153 - INFO - [4H] ETH-USDT-SWAP 2025-05-21 16:00 整 趋势=uptrend, OB={'top': 2513.09, 'bottom': 2481.54}
+2025-06-06 17:53:32,518 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2513.09, 'bottom': 2481.54}
+2025-06-06 17:53:32,519 - INFO - [4H] ETH-USDT-SWAP 2025-05-21 20:00 整 趋势=uptrend, OB={'top': 2513.09, 'bottom': 2481.54}
+2025-06-06 17:53:33,708 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2513.09, 'bottom': 2481.54}
+2025-06-06 17:53:33,709 - INFO - [4H] ETH-USDT-SWAP 2025-05-22 00:00 整 趋势=uptrend, OB={'top': 2513.09, 'bottom': 2481.54}
+2025-06-06 17:53:34,941 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2513.09, 'bottom': 2481.54}
+2025-06-06 17:53:34,941 - INFO - [4H] ETH-USDT-SWAP 2025-05-22 04:00 整 趋势=uptrend, OB={'top': 2513.09, 'bottom': 2481.54}
+2025-06-06 17:53:38,019 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2513.09, 'bottom': 2481.54}
+2025-06-06 17:53:38,020 - INFO - [4H] ETH-USDT-SWAP 2025-05-22 08:00 整 趋势=uptrend, OB={'top': 2513.09, 'bottom': 2481.54}
+2025-06-06 17:53:39,321 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2513.09, 'bottom': 2481.54}
+2025-06-06 17:53:39,321 - INFO - [4H] ETH-USDT-SWAP 2025-05-22 12:00 整 趋势=uptrend, OB={'top': 2513.09, 'bottom': 2481.54}
+2025-06-06 17:53:40,473 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2513.09, 'bottom': 2481.54}
+2025-06-06 17:53:40,474 - INFO - [4H] ETH-USDT-SWAP 2025-05-22 16:00 整 趋势=uptrend, OB={'top': 2513.09, 'bottom': 2481.54}
+2025-06-06 17:53:41,800 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2513.09, 'bottom': 2481.54}
+2025-06-06 17:53:41,800 - INFO - [4H] ETH-USDT-SWAP 2025-05-22 20:00 整 趋势=uptrend, OB={'top': 2513.09, 'bottom': 2481.54}
+2025-06-06 17:53:43,040 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2513.09, 'bottom': 2481.54}
+2025-06-06 17:53:43,041 - INFO - [4H] ETH-USDT-SWAP 2025-05-23 00:00 整 趋势=uptrend, OB={'top': 2513.09, 'bottom': 2481.54}
+2025-06-06 17:53:44,171 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2513.09, 'bottom': 2481.54}
+2025-06-06 17:53:44,173 - INFO - [4H] ETH-USDT-SWAP 2025-05-23 04:00 整 趋势=uptrend, OB={'top': 2513.09, 'bottom': 2481.54}
+2025-06-06 17:53:45,664 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2513.09, 'bottom': 2481.54}
+2025-06-06 17:53:45,664 - INFO - [4H] ETH-USDT-SWAP 2025-05-23 08:00 整 趋势=uptrend, OB={'top': 2513.09, 'bottom': 2481.54}
+2025-06-06 17:53:48,050 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2565.89, 'bottom': 2511.19}
+2025-06-06 17:53:48,052 - INFO - [4H] ETH-USDT-SWAP 2025-05-23 12:00 整 趋势=uptrend, OB={'top': 2565.89, 'bottom': 2511.19}
+2025-06-06 17:53:50,758 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2565.89, 'bottom': 2511.19}
+2025-06-06 17:53:50,759 - INFO - [4H] ETH-USDT-SWAP 2025-05-23 16:00 整 趋势=uptrend, OB={'top': 2565.89, 'bottom': 2511.19}
+2025-06-06 17:53:52,014 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2565.89, 'bottom': 2511.19}
+2025-06-06 17:53:52,014 - INFO - [4H] ETH-USDT-SWAP 2025-05-23 20:00 整 趋势=uptrend, OB={'top': 2565.89, 'bottom': 2511.19}
+2025-06-06 17:53:53,854 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2663.84, 'bottom': 2634.38}
+2025-06-06 17:53:53,854 - INFO - [4H] ETH-USDT-SWAP 2025-05-24 00:00 整 趋势=downtrend, OB={'top': 2663.84, 'bottom': 2634.38}
+2025-06-06 17:53:55,496 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2663.84, 'bottom': 2634.38}
+2025-06-06 17:53:55,497 - INFO - [4H] ETH-USDT-SWAP 2025-05-24 04:00 整 趋势=downtrend, OB={'top': 2663.84, 'bottom': 2634.38}
+2025-06-06 17:53:58,424 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2663.84, 'bottom': 2634.38}
+2025-06-06 17:53:58,424 - INFO - [4H] ETH-USDT-SWAP 2025-05-24 08:00 整 趋势=downtrend, OB={'top': 2663.84, 'bottom': 2634.38}
+2025-06-06 17:54:00,074 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2663.84, 'bottom': 2634.38}
+2025-06-06 17:54:00,075 - INFO - [4H] ETH-USDT-SWAP 2025-05-24 12:00 整 趋势=downtrend, OB={'top': 2663.84, 'bottom': 2634.38}
+2025-06-06 17:54:01,381 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2663.84, 'bottom': 2634.38}
+2025-06-06 17:54:01,381 - INFO - [4H] ETH-USDT-SWAP 2025-05-24 16:00 整 趋势=downtrend, OB={'top': 2663.84, 'bottom': 2634.38}
+2025-06-06 17:54:02,595 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2663.84, 'bottom': 2634.38}
+2025-06-06 17:54:02,595 - INFO - [4H] ETH-USDT-SWAP 2025-05-24 20:00 整 趋势=downtrend, OB={'top': 2663.84, 'bottom': 2634.38}
+2025-06-06 17:54:03,562 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2663.84, 'bottom': 2634.38}
+2025-06-06 17:54:03,563 - INFO - [4H] ETH-USDT-SWAP 2025-05-25 00:00 整 趋势=downtrend, OB={'top': 2663.84, 'bottom': 2634.38}
+2025-06-06 17:54:04,650 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2663.84, 'bottom': 2634.38}
+2025-06-06 17:54:04,650 - INFO - [4H] ETH-USDT-SWAP 2025-05-25 04:00 整 趋势=downtrend, OB={'top': 2663.84, 'bottom': 2634.38}
+2025-06-06 17:54:05,675 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2663.84, 'bottom': 2634.38}
+2025-06-06 17:54:05,677 - INFO - [4H] ETH-USDT-SWAP 2025-05-25 08:00 整 趋势=downtrend, OB={'top': 2663.84, 'bottom': 2634.38}
+2025-06-06 17:54:06,715 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2549.1, 'bottom': 2525.62}
+2025-06-06 17:54:06,715 - INFO - [4H] ETH-USDT-SWAP 2025-05-25 12:00 整 趋势=downtrend, OB={'top': 2549.1, 'bottom': 2525.62}
+2025-06-06 17:54:09,206 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2549.1, 'bottom': 2525.62}
+2025-06-06 17:54:09,207 - INFO - [4H] ETH-USDT-SWAP 2025-05-25 16:00 整 趋势=downtrend, OB={'top': 2549.1, 'bottom': 2525.62}
+2025-06-06 17:54:10,444 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2549.1, 'bottom': 2525.62}
+2025-06-06 17:54:10,445 - INFO - [4H] ETH-USDT-SWAP 2025-05-25 20:00 整 趋势=downtrend, OB={'top': 2549.1, 'bottom': 2525.62}
+2025-06-06 17:54:11,532 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2549.1, 'bottom': 2525.62}
+2025-06-06 17:54:11,532 - INFO - [4H] ETH-USDT-SWAP 2025-05-26 00:00 整 趋势=downtrend, OB={'top': 2549.1, 'bottom': 2525.62}
+2025-06-06 17:54:12,721 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2549.1, 'bottom': 2525.62}
+2025-06-06 17:54:12,722 - INFO - [4H] ETH-USDT-SWAP 2025-05-26 04:00 整 趋势=downtrend, OB={'top': 2549.1, 'bottom': 2525.62}
+2025-06-06 17:54:14,348 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2549.1, 'bottom': 2525.62}
+2025-06-06 17:54:14,349 - INFO - [4H] ETH-USDT-SWAP 2025-05-26 08:00 整 趋势=downtrend, OB={'top': 2549.1, 'bottom': 2525.62}
+2025-06-06 17:54:15,726 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2549.1, 'bottom': 2525.62}
+2025-06-06 17:54:15,726 - INFO - [4H] ETH-USDT-SWAP 2025-05-26 12:00 整 趋势=downtrend, OB={'top': 2549.1, 'bottom': 2525.62}
+2025-06-06 17:54:17,529 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2512.1, 'bottom': 2493.86}
+2025-06-06 17:54:17,530 - INFO - [4H] ETH-USDT-SWAP 2025-05-26 16:00 整 趋势=uptrend, OB={'top': 2512.1, 'bottom': 2493.86}
+2025-06-06 17:54:18,592 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2512.1, 'bottom': 2493.86}
+2025-06-06 17:54:18,592 - INFO - [4H] ETH-USDT-SWAP 2025-05-26 20:00 整 趋势=uptrend, OB={'top': 2512.1, 'bottom': 2493.86}
+2025-06-06 17:54:19,614 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2512.1, 'bottom': 2493.86}
+2025-06-06 17:54:19,615 - INFO - [4H] ETH-USDT-SWAP 2025-05-27 00:00 整 趋势=uptrend, OB={'top': 2512.1, 'bottom': 2493.86}
+2025-06-06 17:54:21,851 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2512.1, 'bottom': 2493.86}
+2025-06-06 17:54:21,851 - INFO - [4H] ETH-USDT-SWAP 2025-05-27 04:00 整 趋势=uptrend, OB={'top': 2512.1, 'bottom': 2493.86}
+2025-06-06 17:54:23,710 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2512.1, 'bottom': 2493.86}
+2025-06-06 17:54:23,710 - INFO - [4H] ETH-USDT-SWAP 2025-05-27 08:00 整 趋势=uptrend, OB={'top': 2512.1, 'bottom': 2493.86}
+2025-06-06 17:54:24,906 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2512.1, 'bottom': 2493.86}
+2025-06-06 17:54:24,906 - INFO - [4H] ETH-USDT-SWAP 2025-05-27 12:00 整 趋势=uptrend, OB={'top': 2512.1, 'bottom': 2493.86}
+2025-06-06 17:54:26,195 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2512.1, 'bottom': 2493.86}
+2025-06-06 17:54:26,195 - INFO - [4H] ETH-USDT-SWAP 2025-05-27 16:00 整 趋势=uptrend, OB={'top': 2512.1, 'bottom': 2493.86}
+2025-06-06 17:54:27,406 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2512.1, 'bottom': 2493.86}
+2025-06-06 17:54:27,407 - INFO - [4H] ETH-USDT-SWAP 2025-05-27 20:00 整 趋势=uptrend, OB={'top': 2512.1, 'bottom': 2493.86}
+2025-06-06 17:54:28,839 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2512.1, 'bottom': 2493.86}
+2025-06-06 17:54:28,840 - INFO - [4H] ETH-USDT-SWAP 2025-05-28 00:00 整 趋势=uptrend, OB={'top': 2512.1, 'bottom': 2493.86}
+2025-06-06 17:54:29,913 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2564.81, 'bottom': 2539.75}
+2025-06-06 17:54:29,913 - INFO - [4H] ETH-USDT-SWAP 2025-05-28 04:00 整 趋势=uptrend, OB={'top': 2564.81, 'bottom': 2539.75}
+2025-06-06 17:54:31,458 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2564.81, 'bottom': 2539.75}
+2025-06-06 17:54:31,458 - INFO - [4H] ETH-USDT-SWAP 2025-05-28 08:00 整 趋势=uptrend, OB={'top': 2564.81, 'bottom': 2539.75}
+2025-06-06 17:54:32,690 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2564.81, 'bottom': 2539.75}
+2025-06-06 17:54:32,690 - INFO - [4H] ETH-USDT-SWAP 2025-05-28 12:00 整 趋势=uptrend, OB={'top': 2564.81, 'bottom': 2539.75}
+2025-06-06 17:54:33,777 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2564.81, 'bottom': 2539.75}
+2025-06-06 17:54:33,777 - INFO - [4H] ETH-USDT-SWAP 2025-05-28 16:00 整 趋势=uptrend, OB={'top': 2564.81, 'bottom': 2539.75}
+2025-06-06 17:54:34,884 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2564.81, 'bottom': 2539.75}
+2025-06-06 17:54:34,885 - INFO - [4H] ETH-USDT-SWAP 2025-05-28 20:00 整 趋势=uptrend, OB={'top': 2564.81, 'bottom': 2539.75}
+2025-06-06 17:54:36,034 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2564.81, 'bottom': 2539.75}
+2025-06-06 17:54:36,035 - INFO - [4H] ETH-USDT-SWAP 2025-05-29 00:00 整 趋势=uptrend, OB={'top': 2564.81, 'bottom': 2539.75}
+2025-06-06 17:54:37,279 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2564.81, 'bottom': 2539.75}
+2025-06-06 17:54:37,279 - INFO - [4H] ETH-USDT-SWAP 2025-05-29 04:00 整 趋势=uptrend, OB={'top': 2564.81, 'bottom': 2539.75}
+2025-06-06 17:54:38,338 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2564.81, 'bottom': 2539.75}
+2025-06-06 17:54:38,338 - INFO - [4H] ETH-USDT-SWAP 2025-05-29 08:00 整 趋势=uptrend, OB={'top': 2564.81, 'bottom': 2539.75}
+2025-06-06 17:54:39,540 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2644.07, 'bottom': 2635.0}
+2025-06-06 17:54:39,541 - INFO - [4H] ETH-USDT-SWAP 2025-05-29 12:00 整 趋势=uptrend, OB={'top': 2644.07, 'bottom': 2635.0}
+2025-06-06 17:54:40,910 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2644.07, 'bottom': 2635.0}
+2025-06-06 17:54:40,910 - INFO - [4H] ETH-USDT-SWAP 2025-05-29 16:00 整 趋势=uptrend, OB={'top': 2644.07, 'bottom': 2635.0}
+2025-06-06 17:54:42,025 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2644.07, 'bottom': 2635.0}
+2025-06-06 17:54:42,026 - INFO - [4H] ETH-USDT-SWAP 2025-05-29 20:00 整 趋势=uptrend, OB={'top': 2644.07, 'bottom': 2635.0}
+2025-06-06 17:54:43,205 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2644.07, 'bottom': 2635.0}
+2025-06-06 17:54:43,205 - INFO - [4H] ETH-USDT-SWAP 2025-05-30 00:00 整 趋势=uptrend, OB={'top': 2644.07, 'bottom': 2635.0}
+2025-06-06 17:54:44,394 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2644.07, 'bottom': 2635.0}
+2025-06-06 17:54:44,395 - INFO - [4H] ETH-USDT-SWAP 2025-05-30 04:00 整 趋势=uptrend, OB={'top': 2644.07, 'bottom': 2635.0}
+2025-06-06 17:54:45,451 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2644.07, 'bottom': 2635.0}
+2025-06-06 17:54:45,452 - INFO - [4H] ETH-USDT-SWAP 2025-05-30 08:00 整 趋势=uptrend, OB={'top': 2644.07, 'bottom': 2635.0}
+2025-06-06 17:54:46,885 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2679.98, 'bottom': 2616.51}
+2025-06-06 17:54:46,886 - INFO - [4H] ETH-USDT-SWAP 2025-05-30 12:00 整 趋势=downtrend, OB={'top': 2679.98, 'bottom': 2616.51}
+2025-06-06 17:54:48,001 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2679.98, 'bottom': 2616.51}
+2025-06-06 17:54:48,001 - INFO - [4H] ETH-USDT-SWAP 2025-05-30 16:00 整 趋势=downtrend, OB={'top': 2679.98, 'bottom': 2616.51}
+2025-06-06 17:54:49,877 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2679.98, 'bottom': 2616.51}
+2025-06-06 17:54:49,878 - INFO - [4H] ETH-USDT-SWAP 2025-05-30 20:00 整 趋势=downtrend, OB={'top': 2679.98, 'bottom': 2616.51}
+2025-06-06 17:54:50,902 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2679.98, 'bottom': 2616.51}
+2025-06-06 17:54:50,903 - INFO - [4H] ETH-USDT-SWAP 2025-05-31 00:00 整 趋势=downtrend, OB={'top': 2679.98, 'bottom': 2616.51}
+2025-06-06 17:54:52,756 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2679.98, 'bottom': 2616.51}
+2025-06-06 17:54:52,757 - INFO - [4H] ETH-USDT-SWAP 2025-05-31 04:00 整 趋势=downtrend, OB={'top': 2679.98, 'bottom': 2616.51}
+2025-06-06 17:54:53,776 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2679.98, 'bottom': 2616.51}
+2025-06-06 17:54:53,777 - INFO - [4H] ETH-USDT-SWAP 2025-05-31 08:00 整 趋势=downtrend, OB={'top': 2679.98, 'bottom': 2616.51}
+2025-06-06 17:54:54,793 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2648.83, 'bottom': 2642.55}
+2025-06-06 17:54:54,794 - INFO - [4H] ETH-USDT-SWAP 2025-05-31 12:00 整 趋势=downtrend, OB={'top': 2648.83, 'bottom': 2642.55}
+2025-06-06 17:54:56,235 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2648.83, 'bottom': 2642.55}
+2025-06-06 17:54:56,235 - INFO - [4H] ETH-USDT-SWAP 2025-05-31 16:00 整 趋势=downtrend, OB={'top': 2648.83, 'bottom': 2642.55}
+2025-06-06 17:54:57,674 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2648.83, 'bottom': 2642.55}
+2025-06-06 17:54:57,674 - INFO - [4H] ETH-USDT-SWAP 2025-05-31 20:00 整 趋势=downtrend, OB={'top': 2648.83, 'bottom': 2642.55}
+2025-06-06 17:54:59,484 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2648.83, 'bottom': 2642.55}
+2025-06-06 17:54:59,484 - INFO - [4H] ETH-USDT-SWAP 2025-06-01 00:00 整 趋势=downtrend, OB={'top': 2648.83, 'bottom': 2642.55}
+2025-06-06 17:55:01,046 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2648.83, 'bottom': 2642.55}
+2025-06-06 17:55:01,047 - INFO - [4H] ETH-USDT-SWAP 2025-06-01 04:00 整 趋势=downtrend, OB={'top': 2648.83, 'bottom': 2642.55}
+2025-06-06 17:55:02,324 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2648.83, 'bottom': 2642.55}
+2025-06-06 17:55:02,324 - INFO - [4H] ETH-USDT-SWAP 2025-06-01 08:00 整 趋势=downtrend, OB={'top': 2648.83, 'bottom': 2642.55}
+2025-06-06 17:55:04,580 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2648.83, 'bottom': 2642.55}
+2025-06-06 17:55:04,581 - INFO - [4H] ETH-USDT-SWAP 2025-06-01 12:00 整 趋势=downtrend, OB={'top': 2648.83, 'bottom': 2642.55}
+2025-06-06 17:55:06,111 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2648.83, 'bottom': 2642.55}
+2025-06-06 17:55:06,112 - INFO - [4H] ETH-USDT-SWAP 2025-06-01 16:00 整 趋势=downtrend, OB={'top': 2648.83, 'bottom': 2642.55}
+2025-06-06 17:55:07,338 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2648.83, 'bottom': 2642.55}
+2025-06-06 17:55:07,339 - INFO - [4H] ETH-USDT-SWAP 2025-06-01 20:00 整 趋势=downtrend, OB={'top': 2648.83, 'bottom': 2642.55}
+2025-06-06 17:55:08,546 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2536.42, 'bottom': 2535.28}
+2025-06-06 17:55:08,546 - INFO - [4H] ETH-USDT-SWAP 2025-06-02 00:00 整 趋势=downtrend, OB={'top': 2536.42, 'bottom': 2535.28}
+2025-06-06 17:55:10,283 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2536.42, 'bottom': 2535.28}
+2025-06-06 17:55:10,285 - INFO - [4H] ETH-USDT-SWAP 2025-06-02 04:00 整 趋势=downtrend, OB={'top': 2536.42, 'bottom': 2535.28}
+2025-06-06 17:55:11,570 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2536.42, 'bottom': 2535.28}
+2025-06-06 17:55:11,571 - INFO - [4H] ETH-USDT-SWAP 2025-06-02 08:00 整 趋势=downtrend, OB={'top': 2536.42, 'bottom': 2535.28}
+2025-06-06 17:55:12,861 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2536.42, 'bottom': 2535.28}
+2025-06-06 17:55:12,861 - INFO - [4H] ETH-USDT-SWAP 2025-06-02 12:00 整 趋势=downtrend, OB={'top': 2536.42, 'bottom': 2535.28}
+2025-06-06 17:55:16,098 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2536.42, 'bottom': 2535.28}
+2025-06-06 17:55:16,099 - INFO - [4H] ETH-USDT-SWAP 2025-06-02 16:00 整 趋势=downtrend, OB={'top': 2536.42, 'bottom': 2535.28}
+2025-06-06 17:55:17,194 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2536.42, 'bottom': 2535.28}
+2025-06-06 17:55:17,194 - INFO - [4H] ETH-USDT-SWAP 2025-06-02 20:00 整 趋势=downtrend, OB={'top': 2536.42, 'bottom': 2535.28}
+2025-06-06 17:55:18,297 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2536.42, 'bottom': 2535.28}
+2025-06-06 17:55:18,297 - INFO - [4H] ETH-USDT-SWAP 2025-06-03 00:00 整 趋势=downtrend, OB={'top': 2536.42, 'bottom': 2535.28}
+2025-06-06 17:55:19,379 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2536.42, 'bottom': 2535.28}
+2025-06-06 17:55:19,380 - INFO - [4H] ETH-USDT-SWAP 2025-06-03 04:00 整 趋势=downtrend, OB={'top': 2536.42, 'bottom': 2535.28}
+2025-06-06 17:55:20,454 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2536.42, 'bottom': 2535.28}
+2025-06-06 17:55:20,454 - INFO - [4H] ETH-USDT-SWAP 2025-06-03 08:00 整 趋势=downtrend, OB={'top': 2536.42, 'bottom': 2535.28}
+2025-06-06 17:55:21,871 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2538.12, 'bottom': 2495.1}
+2025-06-06 17:55:21,871 - INFO - [4H] ETH-USDT-SWAP 2025-06-03 12:00 整 趋势=uptrend, OB={'top': 2538.12, 'bottom': 2495.1}
+2025-06-06 17:55:22,928 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2538.12, 'bottom': 2495.1}
+2025-06-06 17:55:22,929 - INFO - [4H] ETH-USDT-SWAP 2025-06-03 16:00 整 趋势=uptrend, OB={'top': 2538.12, 'bottom': 2495.1}
+2025-06-06 17:55:24,479 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2538.12, 'bottom': 2495.1}
+2025-06-06 17:55:24,480 - INFO - [4H] ETH-USDT-SWAP 2025-06-03 20:00 整 趋势=uptrend, OB={'top': 2538.12, 'bottom': 2495.1}
+2025-06-06 17:55:25,595 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2538.12, 'bottom': 2495.1}
+2025-06-06 17:55:25,595 - INFO - [4H] ETH-USDT-SWAP 2025-06-04 00:00 整 趋势=uptrend, OB={'top': 2538.12, 'bottom': 2495.1}
+2025-06-06 17:55:26,713 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2538.12, 'bottom': 2495.1}
+2025-06-06 17:55:26,714 - INFO - [4H] ETH-USDT-SWAP 2025-06-04 04:00 整 趋势=uptrend, OB={'top': 2538.12, 'bottom': 2495.1}
+2025-06-06 17:55:27,841 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2538.12, 'bottom': 2495.1}
+2025-06-06 17:55:27,841 - INFO - [4H] ETH-USDT-SWAP 2025-06-04 08:00 整 趋势=uptrend, OB={'top': 2538.12, 'bottom': 2495.1}
+2025-06-06 17:55:29,226 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2538.12, 'bottom': 2495.1}
+2025-06-06 17:55:29,227 - INFO - [4H] ETH-USDT-SWAP 2025-06-04 12:00 整 趋势=uptrend, OB={'top': 2538.12, 'bottom': 2495.1}
+2025-06-06 17:55:30,368 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2538.12, 'bottom': 2495.1}
+2025-06-06 17:55:30,369 - INFO - [4H] ETH-USDT-SWAP 2025-06-04 16:00 整 趋势=uptrend, OB={'top': 2538.12, 'bottom': 2495.1}
+2025-06-06 17:55:32,671 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2538.12, 'bottom': 2495.1}
+2025-06-06 17:55:32,672 - INFO - [4H] ETH-USDT-SWAP 2025-06-04 20:00 整 趋势=uptrend, OB={'top': 2538.12, 'bottom': 2495.1}
+2025-06-06 17:55:35,581 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2608.87, 'bottom': 2600.34}
+2025-06-06 17:55:35,582 - INFO - [4H] ETH-USDT-SWAP 2025-06-05 00:00 整 趋势=uptrend, OB={'top': 2608.87, 'bottom': 2600.34}
+2025-06-06 17:55:36,882 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2608.87, 'bottom': 2600.34}
+2025-06-06 17:55:36,882 - INFO - [4H] ETH-USDT-SWAP 2025-06-05 04:00 整 趋势=uptrend, OB={'top': 2608.87, 'bottom': 2600.34}
+2025-06-06 17:55:38,175 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2608.87, 'bottom': 2600.34}
+2025-06-06 17:55:38,176 - INFO - [4H] ETH-USDT-SWAP 2025-06-05 08:00 整 趋势=uptrend, OB={'top': 2608.87, 'bottom': 2600.34}
+2025-06-06 17:55:40,946 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2608.87, 'bottom': 2600.34}
+2025-06-06 17:55:40,946 - INFO - [4H] ETH-USDT-SWAP 2025-06-05 12:00 整 趋势=uptrend, OB={'top': 2608.87, 'bottom': 2600.34}
+2025-06-06 17:55:42,241 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2608.87, 'bottom': 2600.34}
+2025-06-06 17:55:42,241 - INFO - [4H] ETH-USDT-SWAP 2025-06-05 16:00 整 趋势=uptrend, OB={'top': 2608.87, 'bottom': 2600.34}
+2025-06-06 17:55:44,814 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2608.87, 'bottom': 2600.34}
+2025-06-06 17:55:44,815 - INFO - [4H] ETH-USDT-SWAP 2025-06-05 20:00 整 趋势=uptrend, OB={'top': 2608.87, 'bottom': 2600.34}
+2025-06-06 17:55:46,331 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2608.87, 'bottom': 2600.34}
+2025-06-06 17:55:46,331 - INFO - [4H] ETH-USDT-SWAP 2025-06-06 00:00 整 趋势=uptrend, OB={'top': 2608.87, 'bottom': 2600.34}
+2025-06-06 17:55:47,557 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2608.87, 'bottom': 2600.34}
+2025-06-06 17:55:47,558 - INFO - [4H] ETH-USDT-SWAP 2025-06-06 04:00 整 趋势=uptrend, OB={'top': 2608.87, 'bottom': 2600.34}
+2025-06-06 17:55:48,838 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 2608.87, 'bottom': 2600.34}
+2025-06-06 17:55:48,839 - INFO - [4H] ETH-USDT-SWAP 2025-06-06 08:00 整 趋势=uptrend, OB={'top': 2608.87, 'bottom': 2600.34}
+2025-06-06 17:55:51,583 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2606.81, 'bottom': 2603.36}
+2025-06-06 17:55:51,584 - INFO - [4H] ETH-USDT-SWAP 2025-06-06 12:00 整 趋势=downtrend, OB={'top': 2606.81, 'bottom': 2603.36}
+2025-06-06 17:55:54,375 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 2606.81, 'bottom': 2603.36}
+2025-06-06 17:55:54,376 - INFO - [4H] ETH-USDT-SWAP 2025-06-06 16:00 整 趋势=downtrend, OB={'top': 2606.81, 'bottom': 2603.36}
+2025-06-06 17:55:57,170 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:55:57,171 - INFO - [4H] SOL-USDT-SWAP 2025-05-04 12:00 整 趋势=uptrend, OB={'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:55:58,529 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:55:58,529 - INFO - [4H] SOL-USDT-SWAP 2025-05-04 16:00 整 趋势=uptrend, OB={'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:55:59,738 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:55:59,738 - INFO - [4H] SOL-USDT-SWAP 2025-05-04 20:00 整 趋势=uptrend, OB={'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:00,810 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:00,810 - INFO - [4H] SOL-USDT-SWAP 2025-05-05 00:00 整 趋势=uptrend, OB={'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:01,937 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:01,938 - INFO - [4H] SOL-USDT-SWAP 2025-05-05 04:00 整 趋势=uptrend, OB={'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:03,661 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:03,662 - INFO - [4H] SOL-USDT-SWAP 2025-05-05 08:00 整 趋势=uptrend, OB={'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:04,811 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:04,812 - INFO - [4H] SOL-USDT-SWAP 2025-05-05 12:00 整 趋势=uptrend, OB={'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:05,806 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:05,806 - INFO - [4H] SOL-USDT-SWAP 2025-05-05 16:00 整 趋势=uptrend, OB={'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:06,830 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:06,831 - INFO - [4H] SOL-USDT-SWAP 2025-05-05 20:00 整 趋势=uptrend, OB={'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:07,992 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:07,992 - INFO - [4H] SOL-USDT-SWAP 2025-05-06 00:00 整 趋势=uptrend, OB={'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:09,102 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:09,103 - INFO - [4H] SOL-USDT-SWAP 2025-05-06 04:00 整 趋势=uptrend, OB={'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:10,583 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:10,583 - INFO - [4H] SOL-USDT-SWAP 2025-05-06 08:00 整 趋势=uptrend, OB={'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:13,213 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:13,214 - INFO - [4H] SOL-USDT-SWAP 2025-05-06 12:00 整 趋势=uptrend, OB={'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:14,285 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:14,285 - INFO - [4H] SOL-USDT-SWAP 2025-05-06 16:00 整 趋势=uptrend, OB={'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:15,644 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:15,645 - INFO - [4H] SOL-USDT-SWAP 2025-05-06 20:00 整 趋势=uptrend, OB={'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:19,517 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:19,518 - INFO - [4H] SOL-USDT-SWAP 2025-05-07 00:00 整 趋势=uptrend, OB={'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:20,976 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:20,977 - INFO - [4H] SOL-USDT-SWAP 2025-05-07 04:00 整 趋势=uptrend, OB={'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:22,119 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:22,120 - INFO - [4H] SOL-USDT-SWAP 2025-05-07 08:00 整 趋势=uptrend, OB={'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:23,354 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:23,354 - INFO - [4H] SOL-USDT-SWAP 2025-05-07 12:00 整 趋势=uptrend, OB={'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:25,172 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:25,172 - INFO - [4H] SOL-USDT-SWAP 2025-05-07 16:00 整 趋势=uptrend, OB={'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:26,438 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:26,438 - INFO - [4H] SOL-USDT-SWAP 2025-05-07 20:00 整 趋势=uptrend, OB={'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:27,698 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:27,699 - INFO - [4H] SOL-USDT-SWAP 2025-05-08 00:00 整 趋势=uptrend, OB={'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:29,174 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:29,174 - INFO - [4H] SOL-USDT-SWAP 2025-05-08 04:00 整 趋势=uptrend, OB={'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:34,584 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:34,584 - INFO - [4H] SOL-USDT-SWAP 2025-05-08 08:00 整 趋势=uptrend, OB={'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:35,613 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:35,614 - INFO - [4H] SOL-USDT-SWAP 2025-05-08 12:00 整 趋势=uptrend, OB={'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:37,094 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:37,095 - INFO - [4H] SOL-USDT-SWAP 2025-05-08 16:00 整 趋势=uptrend, OB={'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:38,251 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:38,251 - INFO - [4H] SOL-USDT-SWAP 2025-05-08 20:00 整 趋势=uptrend, OB={'top': 148.1, 'bottom': 146.32}
+2025-06-06 17:56:39,379 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 145.17, 'bottom': 142.52}
+2025-06-06 17:56:39,380 - INFO - [4H] SOL-USDT-SWAP 2025-05-09 00:00 整 趋势=uptrend, OB={'top': 145.17, 'bottom': 142.52}
+2025-06-06 17:56:40,574 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 145.17, 'bottom': 142.52}
+2025-06-06 17:56:40,575 - INFO - [4H] SOL-USDT-SWAP 2025-05-09 04:00 整 趋势=uptrend, OB={'top': 145.17, 'bottom': 142.52}
+2025-06-06 17:56:41,770 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 145.17, 'bottom': 142.52}
+2025-06-06 17:56:41,771 - INFO - [4H] SOL-USDT-SWAP 2025-05-09 08:00 整 趋势=uptrend, OB={'top': 145.17, 'bottom': 142.52}
+2025-06-06 17:56:42,804 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 145.17, 'bottom': 142.52}
+2025-06-06 17:56:42,805 - INFO - [4H] SOL-USDT-SWAP 2025-05-09 12:00 整 趋势=uptrend, OB={'top': 145.17, 'bottom': 142.52}
+2025-06-06 17:56:44,595 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 145.17, 'bottom': 142.52}
+2025-06-06 17:56:44,596 - INFO - [4H] SOL-USDT-SWAP 2025-05-09 16:00 整 趋势=uptrend, OB={'top': 145.17, 'bottom': 142.52}
+2025-06-06 17:56:45,549 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 164.42, 'bottom': 161.35}
+2025-06-06 17:56:45,549 - INFO - [4H] SOL-USDT-SWAP 2025-05-09 20:00 整 趋势=uptrend, OB={'top': 164.42, 'bottom': 161.35}
+2025-06-06 17:56:46,963 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 164.42, 'bottom': 161.35}
+2025-06-06 17:56:46,963 - INFO - [4H] SOL-USDT-SWAP 2025-05-10 00:00 整 趋势=uptrend, OB={'top': 164.42, 'bottom': 161.35}
+2025-06-06 17:56:49,009 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 164.42, 'bottom': 161.35}
+2025-06-06 17:56:49,009 - INFO - [4H] SOL-USDT-SWAP 2025-05-10 04:00 整 趋势=uptrend, OB={'top': 164.42, 'bottom': 161.35}
+2025-06-06 17:56:51,199 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 164.42, 'bottom': 161.35}
+2025-06-06 17:56:51,200 - INFO - [4H] SOL-USDT-SWAP 2025-05-10 08:00 整 趋势=uptrend, OB={'top': 164.42, 'bottom': 161.35}
+2025-06-06 17:56:52,393 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 164.42, 'bottom': 161.35}
+2025-06-06 17:56:52,393 - INFO - [4H] SOL-USDT-SWAP 2025-05-10 12:00 整 趋势=uptrend, OB={'top': 164.42, 'bottom': 161.35}
+2025-06-06 17:56:53,491 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 164.42, 'bottom': 161.35}
+2025-06-06 17:56:53,491 - INFO - [4H] SOL-USDT-SWAP 2025-05-10 16:00 整 趋势=uptrend, OB={'top': 164.42, 'bottom': 161.35}
+2025-06-06 17:56:54,682 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 164.42, 'bottom': 161.35}
+2025-06-06 17:56:54,683 - INFO - [4H] SOL-USDT-SWAP 2025-05-10 20:00 整 趋势=uptrend, OB={'top': 164.42, 'bottom': 161.35}
+2025-06-06 17:56:56,119 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 164.42, 'bottom': 161.35}
+2025-06-06 17:56:56,119 - INFO - [4H] SOL-USDT-SWAP 2025-05-11 00:00 整 趋势=uptrend, OB={'top': 164.42, 'bottom': 161.35}
+2025-06-06 17:56:58,340 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 164.42, 'bottom': 161.35}
+2025-06-06 17:56:58,341 - INFO - [4H] SOL-USDT-SWAP 2025-05-11 04:00 整 趋势=uptrend, OB={'top': 164.42, 'bottom': 161.35}
+2025-06-06 17:57:00,496 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 164.42, 'bottom': 161.35}
+2025-06-06 17:57:00,497 - INFO - [4H] SOL-USDT-SWAP 2025-05-11 08:00 整 趋势=uptrend, OB={'top': 164.42, 'bottom': 161.35}
+2025-06-06 17:57:01,913 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 172.75, 'bottom': 171.57}
+2025-06-06 17:57:01,913 - INFO - [4H] SOL-USDT-SWAP 2025-05-11 12:00 整 趋势=uptrend, OB={'top': 172.75, 'bottom': 171.57}
+2025-06-06 17:57:03,034 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 172.75, 'bottom': 171.57}
+2025-06-06 17:57:03,034 - INFO - [4H] SOL-USDT-SWAP 2025-05-11 16:00 整 趋势=uptrend, OB={'top': 172.75, 'bottom': 171.57}
+2025-06-06 17:57:04,167 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 172.75, 'bottom': 171.57}
+2025-06-06 17:57:04,168 - INFO - [4H] SOL-USDT-SWAP 2025-05-11 20:00 整 趋势=uptrend, OB={'top': 172.75, 'bottom': 171.57}
+2025-06-06 17:57:06,157 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 172.75, 'bottom': 171.57}
+2025-06-06 17:57:06,157 - INFO - [4H] SOL-USDT-SWAP 2025-05-12 00:00 整 趋势=uptrend, OB={'top': 172.75, 'bottom': 171.57}
+2025-06-06 17:57:07,273 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 172.75, 'bottom': 171.57}
+2025-06-06 17:57:07,273 - INFO - [4H] SOL-USDT-SWAP 2025-05-12 04:00 整 趋势=uptrend, OB={'top': 172.75, 'bottom': 171.57}
+2025-06-06 17:57:08,447 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 172.75, 'bottom': 171.57}
+2025-06-06 17:57:08,447 - INFO - [4H] SOL-USDT-SWAP 2025-05-12 08:00 整 趋势=uptrend, OB={'top': 172.75, 'bottom': 171.57}
+2025-06-06 17:57:09,528 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 172.75, 'bottom': 171.57}
+2025-06-06 17:57:09,528 - INFO - [4H] SOL-USDT-SWAP 2025-05-12 12:00 整 趋势=uptrend, OB={'top': 172.75, 'bottom': 171.57}
+2025-06-06 17:57:10,694 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 172.75, 'bottom': 171.57}
+2025-06-06 17:57:10,695 - INFO - [4H] SOL-USDT-SWAP 2025-05-12 16:00 整 趋势=uptrend, OB={'top': 172.75, 'bottom': 171.57}
+2025-06-06 17:57:11,981 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 172.75, 'bottom': 171.57}
+2025-06-06 17:57:11,982 - INFO - [4H] SOL-USDT-SWAP 2025-05-12 20:00 整 趋势=uptrend, OB={'top': 172.75, 'bottom': 171.57}
+2025-06-06 17:57:13,121 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 177.87, 'bottom': 175.77}
+2025-06-06 17:57:13,122 - INFO - [4H] SOL-USDT-SWAP 2025-05-13 00:00 整 趋势=uptrend, OB={'top': 177.87, 'bottom': 175.77}
+2025-06-06 17:57:14,313 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 176.01, 'bottom': 174.8}
+2025-06-06 17:57:14,313 - INFO - [4H] SOL-USDT-SWAP 2025-05-13 04:00 整 趋势=downtrend, OB={'top': 176.01, 'bottom': 174.8}
+2025-06-06 17:57:15,501 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 176.01, 'bottom': 174.8}
+2025-06-06 17:57:15,502 - INFO - [4H] SOL-USDT-SWAP 2025-05-13 08:00 整 趋势=downtrend, OB={'top': 176.01, 'bottom': 174.8}
+2025-06-06 17:57:39,730 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 17:57:39,730 - INFO - [4H] BTC-USDT-SWAP 2025-05-04 12:00 整 趋势=downtrend, OB={'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 17:57:40,856 - INFO - 15m触碰ob idx=29
+2025-06-06 17:57:40,856 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 17:57:40,857 - INFO - [4H] BTC-USDT-SWAP 2025-05-04 16:00 整 趋势=downtrend, OB={'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 17:57:44,034 - INFO - 15m触碰ob idx=29
+2025-06-06 17:57:44,035 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 17:57:44,035 - INFO - [4H] BTC-USDT-SWAP 2025-05-04 20:00 整 趋势=downtrend, OB={'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 17:57:45,307 - INFO - 15m触碰ob idx=29
+2025-06-06 17:57:45,307 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 17:57:45,307 - INFO - [4H] BTC-USDT-SWAP 2025-05-05 00:00 整 趋势=downtrend, OB={'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 17:57:46,382 - INFO - 15m触碰ob idx=11
+2025-06-06 17:57:46,382 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 17:57:46,383 - INFO - [4H] BTC-USDT-SWAP 2025-05-05 04:00 整 趋势=downtrend, OB={'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 17:57:48,039 - INFO - 15m触碰ob idx=11
+2025-06-06 17:57:48,040 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 17:57:48,040 - INFO - [4H] BTC-USDT-SWAP 2025-05-05 08:00 整 趋势=downtrend, OB={'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 17:57:49,364 - INFO - 15m触碰ob idx=11
+2025-06-06 17:57:49,365 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 17:57:49,365 - INFO - [4H] BTC-USDT-SWAP 2025-05-05 12:00 整 趋势=downtrend, OB={'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 17:57:50,574 - INFO - 15m触碰ob idx=43
+2025-06-06 17:57:50,574 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 17:57:50,575 - INFO - [4H] BTC-USDT-SWAP 2025-05-05 16:00 整 趋势=downtrend, OB={'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 18:00:38,790 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 18:00:38,790 - INFO - [4H] BTC-USDT-SWAP 2025-05-04 12:00 整 趋势=downtrend, OB={'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 18:00:39,944 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 18:00:39,945 - INFO - [4H] BTC-USDT-SWAP 2025-05-04 16:00 整 趋势=downtrend, OB={'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 18:00:42,114 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 18:00:42,114 - INFO - [4H] BTC-USDT-SWAP 2025-05-04 20:00 整 趋势=downtrend, OB={'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 18:00:43,594 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 18:00:43,594 - INFO - [4H] BTC-USDT-SWAP 2025-05-05 00:00 整 趋势=downtrend, OB={'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 18:00:45,214 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 18:00:45,214 - INFO - [4H] BTC-USDT-SWAP 2025-05-05 04:00 整 趋势=downtrend, OB={'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 18:00:46,880 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 18:00:46,881 - INFO - [4H] BTC-USDT-SWAP 2025-05-05 08:00 整 趋势=downtrend, OB={'top': 96294.7, 'bottom': 96280.2}
+2025-06-06 18:00:48,041 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 18:00:48,043 - INFO - [4H] BTC-USDT-SWAP 2025-05-05 12:00 整 趋势=downtrend, OB={'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 18:35:17,443 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 96359.7, 'bottom': 95900.1}
+2025-06-06 18:35:17,443 - INFO - [4H] BTC-USDT-SWAP 2025-05-04 12:00 整 趋势=downtrend, OB={'top': 96359.7, 'bottom': 95900.1}
+2025-06-06 18:35:18,566 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 96359.7, 'bottom': 95900.1}
+2025-06-06 18:35:18,566 - INFO - [4H] BTC-USDT-SWAP 2025-05-04 16:00 整 趋势=downtrend, OB={'top': 96359.7, 'bottom': 95900.1}
+2025-06-06 18:35:20,823 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 96359.7, 'bottom': 95900.1}
+2025-06-06 18:35:20,823 - INFO - [4H] BTC-USDT-SWAP 2025-05-04 20:00 整 趋势=downtrend, OB={'top': 96359.7, 'bottom': 95900.1}
+2025-06-06 18:35:22,345 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 96359.7, 'bottom': 95900.1}
+2025-06-06 18:35:22,345 - INFO - [4H] BTC-USDT-SWAP 2025-05-05 00:00 整 趋势=downtrend, OB={'top': 96359.7, 'bottom': 95900.1}
+2025-06-06 18:35:23,653 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 96359.7, 'bottom': 95900.1}
+2025-06-06 18:35:23,653 - INFO - [4H] BTC-USDT-SWAP 2025-05-05 04:00 整 趋势=downtrend, OB={'top': 96359.7, 'bottom': 95900.1}
+2025-06-06 18:35:25,027 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 96359.7, 'bottom': 95900.1}
+2025-06-06 18:35:25,027 - INFO - [4H] BTC-USDT-SWAP 2025-05-05 08:00 整 趋势=downtrend, OB={'top': 96359.7, 'bottom': 95900.1}
+2025-06-06 18:35:26,037 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 18:35:26,038 - INFO - [4H] BTC-USDT-SWAP 2025-05-05 12:00 整 趋势=downtrend, OB={'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 18:35:32,224 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 18:35:32,225 - INFO - [4H] BTC-USDT-SWAP 2025-05-05 16:00 整 趋势=downtrend, OB={'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 18:35:33,386 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 18:35:33,387 - INFO - [4H] BTC-USDT-SWAP 2025-05-05 20:00 整 趋势=downtrend, OB={'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 18:35:35,168 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 18:35:35,169 - INFO - [4H] BTC-USDT-SWAP 2025-05-06 00:00 整 趋势=downtrend, OB={'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 18:35:36,949 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 18:35:36,949 - INFO - [4H] BTC-USDT-SWAP 2025-05-06 04:00 整 趋势=downtrend, OB={'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 18:35:38,492 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 18:35:38,493 - INFO - [4H] BTC-USDT-SWAP 2025-05-06 08:00 整 趋势=downtrend, OB={'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 18:35:39,824 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 18:35:39,825 - INFO - [4H] BTC-USDT-SWAP 2025-05-06 12:00 整 趋势=downtrend, OB={'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 18:35:42,422 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 18:35:42,423 - INFO - [4H] BTC-USDT-SWAP 2025-05-06 16:00 整 趋势=downtrend, OB={'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 18:35:43,628 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 18:35:43,629 - INFO - [4H] BTC-USDT-SWAP 2025-05-06 20:00 整 趋势=downtrend, OB={'top': 95542.1, 'bottom': 95415.2}
+2025-06-06 18:35:44,869 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 94694.1, 'bottom': 94299.9}
+2025-06-06 18:35:44,869 - INFO - [4H] BTC-USDT-SWAP 2025-05-07 00:00 整 趋势=downtrend, OB={'top': 94694.1, 'bottom': 94299.9}
+2025-06-06 18:35:45,940 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 94694.1, 'bottom': 94299.9}
+2025-06-06 18:35:45,941 - INFO - [4H] BTC-USDT-SWAP 2025-05-07 04:00 整 趋势=downtrend, OB={'top': 94694.1, 'bottom': 94299.9}
+2025-06-06 18:35:47,220 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 94694.1, 'bottom': 94299.9}
+2025-06-06 18:35:47,220 - INFO - [4H] BTC-USDT-SWAP 2025-05-07 08:00 整 趋势=downtrend, OB={'top': 94694.1, 'bottom': 94299.9}
+2025-06-06 18:35:48,682 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 18:35:48,682 - INFO - [4H] BTC-USDT-SWAP 2025-05-07 12:00 整 趋势=uptrend, OB={'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 18:35:50,395 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 18:35:50,395 - INFO - [4H] BTC-USDT-SWAP 2025-05-07 16:00 整 趋势=uptrend, OB={'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 18:35:51,472 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 18:35:51,473 - INFO - [4H] BTC-USDT-SWAP 2025-05-07 20:00 整 趋势=uptrend, OB={'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 18:35:55,038 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 18:35:55,038 - INFO - [4H] BTC-USDT-SWAP 2025-05-08 00:00 整 趋势=uptrend, OB={'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 18:35:56,357 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 18:35:56,357 - INFO - [4H] BTC-USDT-SWAP 2025-05-08 04:00 整 趋势=uptrend, OB={'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 18:35:57,477 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 18:35:57,478 - INFO - [4H] BTC-USDT-SWAP 2025-05-08 08:00 整 趋势=uptrend, OB={'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 18:35:58,646 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 18:35:58,647 - INFO - [4H] BTC-USDT-SWAP 2025-05-08 12:00 整 趋势=uptrend, OB={'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 18:36:00,387 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 18:36:00,388 - INFO - [4H] BTC-USDT-SWAP 2025-05-08 16:00 整 趋势=uptrend, OB={'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 18:36:01,491 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 18:36:01,491 - INFO - [4H] BTC-USDT-SWAP 2025-05-08 20:00 整 趋势=uptrend, OB={'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 18:36:03,458 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 18:36:03,458 - INFO - [4H] BTC-USDT-SWAP 2025-05-09 00:00 整 趋势=uptrend, OB={'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 18:36:05,318 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 18:36:05,319 - INFO - [4H] BTC-USDT-SWAP 2025-05-09 04:00 整 趋势=uptrend, OB={'top': 94344.1, 'bottom': 93773.0}
+2025-06-06 18:36:06,566 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 96896.1, 'bottom': 96133.1}
+2025-06-06 18:36:06,567 - INFO - [4H] BTC-USDT-SWAP 2025-05-09 08:00 整 趋势=uptrend, OB={'top': 96896.1, 'bottom': 96133.1}
+2025-06-06 18:36:07,604 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 96896.1, 'bottom': 96133.1}
+2025-06-06 18:36:07,604 - INFO - [4H] BTC-USDT-SWAP 2025-05-09 12:00 整 趋势=uptrend, OB={'top': 96896.1, 'bottom': 96133.1}
+2025-06-06 18:36:08,667 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 96896.1, 'bottom': 96133.1}
+2025-06-06 18:36:08,668 - INFO - [4H] BTC-USDT-SWAP 2025-05-09 16:00 整 趋势=uptrend, OB={'top': 96896.1, 'bottom': 96133.1}
+2025-06-06 18:36:09,996 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 96896.1, 'bottom': 96133.1}
+2025-06-06 18:36:09,997 - INFO - [4H] BTC-USDT-SWAP 2025-05-09 20:00 整 趋势=uptrend, OB={'top': 96896.1, 'bottom': 96133.1}
+2025-06-06 18:36:11,276 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 96896.1, 'bottom': 96133.1}
+2025-06-06 18:36:11,277 - INFO - [4H] BTC-USDT-SWAP 2025-05-10 00:00 整 趋势=uptrend, OB={'top': 96896.1, 'bottom': 96133.1}
+2025-06-06 18:36:12,287 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 96896.1, 'bottom': 96133.1}
+2025-06-06 18:36:12,287 - INFO - [4H] BTC-USDT-SWAP 2025-05-10 04:00 整 趋势=uptrend, OB={'top': 96896.1, 'bottom': 96133.1}
+2025-06-06 18:36:13,354 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 96896.1, 'bottom': 96133.1}
+2025-06-06 18:36:13,354 - INFO - [4H] BTC-USDT-SWAP 2025-05-10 08:00 整 趋势=uptrend, OB={'top': 96896.1, 'bottom': 96133.1}
+2025-06-06 18:36:16,862 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 96896.1, 'bottom': 96133.1}
+2025-06-06 18:36:16,862 - INFO - [4H] BTC-USDT-SWAP 2025-05-10 12:00 整 趋势=uptrend, OB={'top': 96896.1, 'bottom': 96133.1}
+2025-06-06 18:36:18,048 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 96896.1, 'bottom': 96133.1}
+2025-06-06 18:36:18,049 - INFO - [4H] BTC-USDT-SWAP 2025-05-10 16:00 整 趋势=uptrend, OB={'top': 96896.1, 'bottom': 96133.1}
+2025-06-06 18:36:19,204 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 96896.1, 'bottom': 96133.1}
+2025-06-06 18:36:19,205 - INFO - [4H] BTC-USDT-SWAP 2025-05-10 20:00 整 趋势=uptrend, OB={'top': 96896.1, 'bottom': 96133.1}
+2025-06-06 18:36:25,470 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 96896.1, 'bottom': 96133.1}
+2025-06-06 18:36:25,470 - INFO - [4H] BTC-USDT-SWAP 2025-05-11 00:00 整 趋势=uptrend, OB={'top': 96896.1, 'bottom': 96133.1}
+2025-06-06 18:36:26,556 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 96896.1, 'bottom': 96133.1}
+2025-06-06 18:36:26,556 - INFO - [4H] BTC-USDT-SWAP 2025-05-11 04:00 整 趋势=uptrend, OB={'top': 96896.1, 'bottom': 96133.1}
+2025-06-06 18:36:27,678 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 18:36:27,678 - INFO - [4H] BTC-USDT-SWAP 2025-05-11 08:00 整 趋势=uptrend, OB={'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 18:36:29,105 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 18:36:29,105 - INFO - [4H] BTC-USDT-SWAP 2025-05-11 12:00 整 趋势=uptrend, OB={'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 18:36:30,258 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 18:36:30,259 - INFO - [4H] BTC-USDT-SWAP 2025-05-11 16:00 整 趋势=uptrend, OB={'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 18:36:31,693 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 18:36:31,693 - INFO - [4H] BTC-USDT-SWAP 2025-05-11 20:00 整 趋势=uptrend, OB={'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 18:36:33,330 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 18:36:33,330 - INFO - [4H] BTC-USDT-SWAP 2025-05-12 00:00 整 趋势=uptrend, OB={'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 18:36:34,549 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 18:36:34,549 - INFO - [4H] BTC-USDT-SWAP 2025-05-12 04:00 整 趋势=uptrend, OB={'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 18:36:35,842 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 18:36:35,842 - INFO - [4H] BTC-USDT-SWAP 2025-05-12 08:00 整 趋势=uptrend, OB={'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 18:36:37,170 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 18:36:37,170 - INFO - [4H] BTC-USDT-SWAP 2025-05-12 12:00 整 趋势=uptrend, OB={'top': 102909.0, 'bottom': 102848.5}
+2025-06-06 18:36:39,404 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 103948.0, 'bottom': 103347.2}
+2025-06-06 18:36:39,404 - INFO - [4H] BTC-USDT-SWAP 2025-05-12 16:00 整 趋势=uptrend, OB={'top': 103948.0, 'bottom': 103347.2}
+2025-06-06 18:36:40,742 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 103948.0, 'bottom': 103347.2}
+2025-06-06 18:36:40,743 - INFO - [4H] BTC-USDT-SWAP 2025-05-12 20:00 整 趋势=uptrend, OB={'top': 103948.0, 'bottom': 103347.2}
+2025-06-06 18:36:41,748 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 103948.0, 'bottom': 103347.2}
+2025-06-06 18:36:41,749 - INFO - [4H] BTC-USDT-SWAP 2025-05-13 00:00 整 趋势=uptrend, OB={'top': 103948.0, 'bottom': 103347.2}
+2025-06-06 18:36:43,510 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:36:43,510 - INFO - [4H] BTC-USDT-SWAP 2025-05-13 04:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:36:45,182 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:36:45,183 - INFO - [4H] BTC-USDT-SWAP 2025-05-13 08:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:36:47,942 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:36:47,942 - INFO - [4H] BTC-USDT-SWAP 2025-05-13 12:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:36:49,873 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:36:49,874 - INFO - [4H] BTC-USDT-SWAP 2025-05-13 16:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:36:50,964 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:36:50,964 - INFO - [4H] BTC-USDT-SWAP 2025-05-13 20:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:36:52,221 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:36:52,222 - INFO - [4H] BTC-USDT-SWAP 2025-05-14 00:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:36:54,786 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:36:54,786 - INFO - [4H] BTC-USDT-SWAP 2025-05-14 04:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:36:55,945 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:36:55,946 - INFO - [4H] BTC-USDT-SWAP 2025-05-14 08:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:36:57,116 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:36:57,116 - INFO - [4H] BTC-USDT-SWAP 2025-05-14 12:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:36:58,461 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:36:58,462 - INFO - [4H] BTC-USDT-SWAP 2025-05-14 16:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:36:59,444 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:36:59,445 - INFO - [4H] BTC-USDT-SWAP 2025-05-14 20:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:00,900 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:00,900 - INFO - [4H] BTC-USDT-SWAP 2025-05-15 00:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:03,067 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:03,067 - INFO - [4H] BTC-USDT-SWAP 2025-05-15 04:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:06,158 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:06,158 - INFO - [4H] BTC-USDT-SWAP 2025-05-15 08:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:08,952 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:08,953 - INFO - [4H] BTC-USDT-SWAP 2025-05-15 12:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:10,017 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:10,018 - INFO - [4H] BTC-USDT-SWAP 2025-05-15 16:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:12,122 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:12,122 - INFO - [4H] BTC-USDT-SWAP 2025-05-15 20:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:13,932 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:13,933 - INFO - [4H] BTC-USDT-SWAP 2025-05-16 00:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:26,572 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:26,573 - INFO - [4H] BTC-USDT-SWAP 2025-05-16 04:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:27,629 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:27,630 - INFO - [4H] BTC-USDT-SWAP 2025-05-16 08:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:29,235 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:29,236 - INFO - [4H] BTC-USDT-SWAP 2025-05-16 12:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:31,188 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:31,189 - INFO - [4H] BTC-USDT-SWAP 2025-05-16 16:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:32,271 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:32,272 - INFO - [4H] BTC-USDT-SWAP 2025-05-16 20:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:33,961 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:33,961 - INFO - [4H] BTC-USDT-SWAP 2025-05-17 00:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:35,226 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:35,227 - INFO - [4H] BTC-USDT-SWAP 2025-05-17 04:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:42,215 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:42,215 - INFO - [4H] BTC-USDT-SWAP 2025-05-17 08:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:43,590 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:43,591 - INFO - [4H] BTC-USDT-SWAP 2025-05-17 12:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:45,181 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:45,181 - INFO - [4H] BTC-USDT-SWAP 2025-05-17 16:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:46,162 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:46,162 - INFO - [4H] BTC-USDT-SWAP 2025-05-17 20:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:49,186 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:49,186 - INFO - [4H] BTC-USDT-SWAP 2025-05-18 00:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:50,126 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:50,126 - INFO - [4H] BTC-USDT-SWAP 2025-05-18 04:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:51,422 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:51,423 - INFO - [4H] BTC-USDT-SWAP 2025-05-18 08:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:52,587 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:52,588 - INFO - [4H] BTC-USDT-SWAP 2025-05-18 12:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:53,981 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 104431.5, 'bottom': 104059.9}
+2025-06-06 18:37:53,981 - INFO - [4H] BTC-USDT-SWAP 2025-05-18 16:00 整 趋势=downtrend, OB={'top': 104431.5, 'bottom': 104059.9}

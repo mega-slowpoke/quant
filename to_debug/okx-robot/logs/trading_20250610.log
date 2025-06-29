@@ -1,0 +1,400 @@
+2025-06-10 16:20:20,566 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:20:20,567 - INFO - [4H] PI-USDT-SWAP 2025-05-08 12:00 整 趋势=uptrend, OB={'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:20:21,756 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:20:21,756 - INFO - [4H] PI-USDT-SWAP 2025-05-08 16:00 整 趋势=uptrend, OB={'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:20:24,241 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:20:24,241 - INFO - [4H] PI-USDT-SWAP 2025-05-08 20:00 整 趋势=uptrend, OB={'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:20:42,479 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:20:42,480 - INFO - [4H] PI-USDT-SWAP 2025-05-09 00:00 整 趋势=uptrend, OB={'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:20:44,400 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:20:44,401 - INFO - [4H] PI-USDT-SWAP 2025-05-09 04:00 整 趋势=uptrend, OB={'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:20:45,681 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:20:45,682 - INFO - [4H] PI-USDT-SWAP 2025-05-09 08:00 整 趋势=uptrend, OB={'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:20:46,925 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:20:46,926 - INFO - [4H] PI-USDT-SWAP 2025-05-09 12:00 整 趋势=uptrend, OB={'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:20:48,672 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:20:48,672 - INFO - [4H] PI-USDT-SWAP 2025-05-09 16:00 整 趋势=uptrend, OB={'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:20:50,482 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:20:50,482 - INFO - [4H] PI-USDT-SWAP 2025-05-09 20:00 整 趋势=uptrend, OB={'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:20:52,402 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:20:52,402 - INFO - [4H] PI-USDT-SWAP 2025-05-10 00:00 整 趋势=uptrend, OB={'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:20:53,677 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:20:53,677 - INFO - [4H] PI-USDT-SWAP 2025-05-10 04:00 整 趋势=uptrend, OB={'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:20:54,960 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:20:54,960 - INFO - [4H] PI-USDT-SWAP 2025-05-10 08:00 整 趋势=uptrend, OB={'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:20:56,243 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:20:56,244 - INFO - [4H] PI-USDT-SWAP 2025-05-10 12:00 整 趋势=uptrend, OB={'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:20:57,521 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:20:57,522 - INFO - [4H] PI-USDT-SWAP 2025-05-10 16:00 整 趋势=uptrend, OB={'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:21:00,723 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:21:00,723 - INFO - [4H] PI-USDT-SWAP 2025-05-10 20:00 整 趋势=uptrend, OB={'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:21:01,842 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:21:01,843 - INFO - [4H] PI-USDT-SWAP 2025-05-11 00:00 整 趋势=uptrend, OB={'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:21:03,930 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:21:03,931 - INFO - [4H] PI-USDT-SWAP 2025-05-11 04:00 整 趋势=uptrend, OB={'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:21:06,036 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:21:06,037 - INFO - [4H] PI-USDT-SWAP 2025-05-11 08:00 整 趋势=uptrend, OB={'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:21:07,757 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:21:07,757 - INFO - [4H] PI-USDT-SWAP 2025-05-11 12:00 整 趋势=uptrend, OB={'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:21:10,478 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:21:10,478 - INFO - [4H] PI-USDT-SWAP 2025-05-11 16:00 整 趋势=uptrend, OB={'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:21:12,883 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:21:12,884 - INFO - [4H] PI-USDT-SWAP 2025-05-11 20:00 整 趋势=uptrend, OB={'top': 0.5793, 'bottom': 0.5784}
+2025-06-10 16:21:14,219 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:21:14,220 - INFO - [4H] PI-USDT-SWAP 2025-05-12 00:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:21:15,439 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:21:15,440 - INFO - [4H] PI-USDT-SWAP 2025-05-12 04:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:21:19,436 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:21:19,437 - INFO - [4H] PI-USDT-SWAP 2025-05-12 08:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:21:35,764 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:21:35,765 - INFO - [4H] PI-USDT-SWAP 2025-05-12 12:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:21:37,046 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:21:37,046 - INFO - [4H] PI-USDT-SWAP 2025-05-12 16:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:21:39,763 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:21:39,764 - INFO - [4H] PI-USDT-SWAP 2025-05-12 20:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:21:41,213 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:21:41,213 - INFO - [4H] PI-USDT-SWAP 2025-05-13 00:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:21:42,479 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:21:42,480 - INFO - [4H] PI-USDT-SWAP 2025-05-13 04:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:21:43,757 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:21:43,758 - INFO - [4H] PI-USDT-SWAP 2025-05-13 08:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:00,239 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:00,240 - INFO - [4H] PI-USDT-SWAP 2025-05-13 12:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:01,595 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:01,596 - INFO - [4H] PI-USDT-SWAP 2025-05-13 16:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:03,933 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:03,933 - INFO - [4H] PI-USDT-SWAP 2025-05-13 20:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:07,451 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:07,451 - INFO - [4H] PI-USDT-SWAP 2025-05-14 00:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:08,721 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:08,722 - INFO - [4H] PI-USDT-SWAP 2025-05-14 04:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:11,307 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:11,308 - INFO - [4H] PI-USDT-SWAP 2025-05-14 08:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:12,728 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:12,728 - INFO - [4H] PI-USDT-SWAP 2025-05-14 12:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:13,933 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:13,933 - INFO - [4H] PI-USDT-SWAP 2025-05-14 16:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:15,114 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:15,114 - INFO - [4H] PI-USDT-SWAP 2025-05-14 20:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:16,393 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:16,394 - INFO - [4H] PI-USDT-SWAP 2025-05-15 00:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:17,654 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:17,655 - INFO - [4H] PI-USDT-SWAP 2025-05-15 04:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:19,604 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:19,605 - INFO - [4H] PI-USDT-SWAP 2025-05-15 08:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:22,434 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:22,434 - INFO - [4H] PI-USDT-SWAP 2025-05-15 12:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:25,034 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:25,034 - INFO - [4H] PI-USDT-SWAP 2025-05-15 16:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:26,320 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:26,321 - INFO - [4H] PI-USDT-SWAP 2025-05-15 20:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:27,601 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:27,601 - INFO - [4H] PI-USDT-SWAP 2025-05-16 00:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:29,998 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:29,999 - INFO - [4H] PI-USDT-SWAP 2025-05-16 04:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:40,867 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:40,867 - INFO - [4H] PI-USDT-SWAP 2025-05-16 08:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:52,238 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:22:52,238 - INFO - [4H] PI-USDT-SWAP 2025-05-16 12:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:23:00,562 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:23:00,563 - INFO - [4H] PI-USDT-SWAP 2025-05-16 16:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:23:01,839 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:23:01,839 - INFO - [4H] PI-USDT-SWAP 2025-05-16 20:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:23:03,764 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:23:03,764 - INFO - [4H] PI-USDT-SWAP 2025-05-17 00:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:23:05,038 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:23:05,038 - INFO - [4H] PI-USDT-SWAP 2025-05-17 04:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:23:06,481 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:23:06,482 - INFO - [4H] PI-USDT-SWAP 2025-05-17 08:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:23:08,238 - INFO - [4H] 识别到趋势: uptrend, OB: {'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:23:08,239 - INFO - [4H] PI-USDT-SWAP 2025-05-17 12:00 整 趋势=uptrend, OB={'top': 0.7398, 'bottom': 0.717}
+2025-06-10 16:23:09,518 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:09,519 - INFO - [4H] PI-USDT-SWAP 2025-05-17 16:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:11,255 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:11,255 - INFO - [4H] PI-USDT-SWAP 2025-05-17 20:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:12,558 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:12,559 - INFO - [4H] PI-USDT-SWAP 2025-05-18 00:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:13,997 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:13,998 - INFO - [4H] PI-USDT-SWAP 2025-05-18 04:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:15,435 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:15,436 - INFO - [4H] PI-USDT-SWAP 2025-05-18 08:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:16,720 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:16,721 - INFO - [4H] PI-USDT-SWAP 2025-05-18 12:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:18,683 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:18,683 - INFO - [4H] PI-USDT-SWAP 2025-05-18 16:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:21,032 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:21,032 - INFO - [4H] PI-USDT-SWAP 2025-05-18 20:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:22,354 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:22,355 - INFO - [4H] PI-USDT-SWAP 2025-05-19 00:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:26,733 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:26,733 - INFO - [4H] PI-USDT-SWAP 2025-05-19 04:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:28,531 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:28,531 - INFO - [4H] PI-USDT-SWAP 2025-05-19 08:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:29,836 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:29,836 - INFO - [4H] PI-USDT-SWAP 2025-05-19 12:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:31,127 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:31,131 - INFO - [4H] PI-USDT-SWAP 2025-05-19 16:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:35,117 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:35,118 - INFO - [4H] PI-USDT-SWAP 2025-05-19 20:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:36,404 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:36,404 - INFO - [4H] PI-USDT-SWAP 2025-05-20 00:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:37,740 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:37,740 - INFO - [4H] PI-USDT-SWAP 2025-05-20 04:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:39,315 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:39,316 - INFO - [4H] PI-USDT-SWAP 2025-05-20 08:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:40,614 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:40,614 - INFO - [4H] PI-USDT-SWAP 2025-05-20 12:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:41,995 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:41,996 - INFO - [4H] PI-USDT-SWAP 2025-05-20 16:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:43,127 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:43,127 - INFO - [4H] PI-USDT-SWAP 2025-05-20 20:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:45,436 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:45,436 - INFO - [4H] PI-USDT-SWAP 2025-05-21 00:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:46,793 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:46,794 - INFO - [4H] PI-USDT-SWAP 2025-05-21 04:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:48,719 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:48,719 - INFO - [4H] PI-USDT-SWAP 2025-05-21 08:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:50,000 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:50,001 - INFO - [4H] PI-USDT-SWAP 2025-05-21 12:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:51,145 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:51,146 - INFO - [4H] PI-USDT-SWAP 2025-05-21 16:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:52,400 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:52,401 - INFO - [4H] PI-USDT-SWAP 2025-05-21 20:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:53,730 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:53,731 - INFO - [4H] PI-USDT-SWAP 2025-05-22 00:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:58,565 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:23:58,565 - INFO - [4H] PI-USDT-SWAP 2025-05-22 04:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:00,085 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:00,086 - INFO - [4H] PI-USDT-SWAP 2025-05-22 08:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:01,677 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:01,678 - INFO - [4H] PI-USDT-SWAP 2025-05-22 12:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:03,934 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:03,934 - INFO - [4H] PI-USDT-SWAP 2025-05-22 16:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:05,226 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:05,226 - INFO - [4H] PI-USDT-SWAP 2025-05-22 20:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:06,333 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:06,334 - INFO - [4H] PI-USDT-SWAP 2025-05-23 00:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:07,796 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:07,797 - INFO - [4H] PI-USDT-SWAP 2025-05-23 04:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:10,645 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:10,646 - INFO - [4H] PI-USDT-SWAP 2025-05-23 08:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:12,401 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:12,401 - INFO - [4H] PI-USDT-SWAP 2025-05-23 12:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:13,692 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:13,693 - INFO - [4H] PI-USDT-SWAP 2025-05-23 16:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:16,079 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:16,080 - INFO - [4H] PI-USDT-SWAP 2025-05-23 20:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:17,697 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:17,698 - INFO - [4H] PI-USDT-SWAP 2025-05-24 00:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:19,745 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:19,746 - INFO - [4H] PI-USDT-SWAP 2025-05-24 04:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:21,195 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:21,196 - INFO - [4H] PI-USDT-SWAP 2025-05-24 08:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:22,322 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:22,323 - INFO - [4H] PI-USDT-SWAP 2025-05-24 12:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:23,596 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:23,596 - INFO - [4H] PI-USDT-SWAP 2025-05-24 16:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:24,886 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:24,887 - INFO - [4H] PI-USDT-SWAP 2025-05-24 20:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:27,245 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:27,245 - INFO - [4H] PI-USDT-SWAP 2025-05-25 00:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:28,815 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:28,815 - INFO - [4H] PI-USDT-SWAP 2025-05-25 04:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:30,003 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:30,003 - INFO - [4H] PI-USDT-SWAP 2025-05-25 08:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:31,434 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:31,435 - INFO - [4H] PI-USDT-SWAP 2025-05-25 12:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:32,722 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:32,723 - INFO - [4H] PI-USDT-SWAP 2025-05-25 16:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:33,979 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:33,979 - INFO - [4H] PI-USDT-SWAP 2025-05-25 20:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:35,121 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:35,121 - INFO - [4H] PI-USDT-SWAP 2025-05-26 00:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:36,240 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:36,240 - INFO - [4H] PI-USDT-SWAP 2025-05-26 04:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:37,518 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:37,519 - INFO - [4H] PI-USDT-SWAP 2025-05-26 08:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:38,640 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:38,641 - INFO - [4H] PI-USDT-SWAP 2025-05-26 12:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:39,966 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:39,967 - INFO - [4H] PI-USDT-SWAP 2025-05-26 16:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:41,200 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:41,201 - INFO - [4H] PI-USDT-SWAP 2025-05-26 20:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:48,576 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:48,576 - INFO - [4H] PI-USDT-SWAP 2025-05-27 00:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:49,838 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:49,838 - INFO - [4H] PI-USDT-SWAP 2025-05-27 04:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:51,119 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:24:51,120 - INFO - [4H] PI-USDT-SWAP 2025-05-27 08:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:07,917 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:07,918 - INFO - [4H] PI-USDT-SWAP 2025-05-27 12:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:12,870 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:12,871 - INFO - [4H] PI-USDT-SWAP 2025-05-27 16:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:14,258 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:14,258 - INFO - [4H] PI-USDT-SWAP 2025-05-27 20:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:15,591 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:15,592 - INFO - [4H] PI-USDT-SWAP 2025-05-28 00:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:16,712 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:16,713 - INFO - [4H] PI-USDT-SWAP 2025-05-28 04:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:18,640 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:18,641 - INFO - [4H] PI-USDT-SWAP 2025-05-28 08:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:19,757 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:19,757 - INFO - [4H] PI-USDT-SWAP 2025-05-28 12:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:21,033 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:21,033 - INFO - [4H] PI-USDT-SWAP 2025-05-28 16:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:26,479 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:26,479 - INFO - [4H] PI-USDT-SWAP 2025-05-28 20:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:28,100 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:28,101 - INFO - [4H] PI-USDT-SWAP 2025-05-29 00:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:29,841 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:29,842 - INFO - [4H] PI-USDT-SWAP 2025-05-29 04:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:31,084 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:31,085 - INFO - [4H] PI-USDT-SWAP 2025-05-29 08:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:32,467 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:32,468 - INFO - [4H] PI-USDT-SWAP 2025-05-29 12:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:35,596 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:35,597 - INFO - [4H] PI-USDT-SWAP 2025-05-29 16:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:36,881 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:36,882 - INFO - [4H] PI-USDT-SWAP 2025-05-29 20:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:38,481 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:38,482 - INFO - [4H] PI-USDT-SWAP 2025-05-30 00:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:39,756 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:39,757 - INFO - [4H] PI-USDT-SWAP 2025-05-30 04:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:41,038 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:41,038 - INFO - [4H] PI-USDT-SWAP 2025-05-30 08:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:44,088 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:44,088 - INFO - [4H] PI-USDT-SWAP 2025-05-30 12:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:45,680 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:45,680 - INFO - [4H] PI-USDT-SWAP 2025-05-30 16:00 整 趋势=downtrend, OB={'top': 0.8893, 'bottom': 0.8667}
+2025-06-10 16:25:46,955 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8488, 'bottom': 0.8309}
+2025-06-10 16:25:46,955 - INFO - [4H] PI-USDT-SWAP 2025-05-30 20:00 整 趋势=downtrend, OB={'top': 0.8488, 'bottom': 0.8309}
+2025-06-10 16:25:48,873 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8488, 'bottom': 0.8309}
+2025-06-10 16:25:48,874 - INFO - [4H] PI-USDT-SWAP 2025-05-31 00:00 整 趋势=downtrend, OB={'top': 0.8488, 'bottom': 0.8309}
+2025-06-10 16:26:05,035 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8488, 'bottom': 0.8309}
+2025-06-10 16:26:05,035 - INFO - [4H] PI-USDT-SWAP 2025-05-31 04:00 整 趋势=downtrend, OB={'top': 0.8488, 'bottom': 0.8309}
+2025-06-10 16:26:06,252 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.8488, 'bottom': 0.8309}
+2025-06-10 16:26:06,252 - INFO - [4H] PI-USDT-SWAP 2025-05-31 08:00 整 趋势=downtrend, OB={'top': 0.8488, 'bottom': 0.8309}
+2025-06-10 16:26:07,596 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:07,597 - INFO - [4H] PI-USDT-SWAP 2025-05-31 12:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:08,881 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:08,882 - INFO - [4H] PI-USDT-SWAP 2025-05-31 16:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:11,595 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:11,596 - INFO - [4H] PI-USDT-SWAP 2025-05-31 20:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:12,755 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:12,755 - INFO - [4H] PI-USDT-SWAP 2025-06-01 00:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:14,185 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:14,186 - INFO - [4H] PI-USDT-SWAP 2025-06-01 04:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:15,458 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:15,459 - INFO - [4H] PI-USDT-SWAP 2025-06-01 08:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:20,733 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:20,734 - INFO - [4H] PI-USDT-SWAP 2025-06-01 12:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:21,997 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:21,998 - INFO - [4H] PI-USDT-SWAP 2025-06-01 16:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:23,275 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:23,275 - INFO - [4H] PI-USDT-SWAP 2025-06-01 20:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:26,312 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:26,313 - INFO - [4H] PI-USDT-SWAP 2025-06-02 00:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:27,861 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:27,861 - INFO - [4H] PI-USDT-SWAP 2025-06-02 04:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:29,199 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:29,200 - INFO - [4H] PI-USDT-SWAP 2025-06-02 08:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:30,956 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:30,957 - INFO - [4H] PI-USDT-SWAP 2025-06-02 12:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:34,312 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:34,313 - INFO - [4H] PI-USDT-SWAP 2025-06-02 16:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:36,472 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:36,472 - INFO - [4H] PI-USDT-SWAP 2025-06-02 20:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:37,600 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:37,601 - INFO - [4H] PI-USDT-SWAP 2025-06-03 00:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:38,961 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:38,962 - INFO - [4H] PI-USDT-SWAP 2025-06-03 04:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:40,084 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:40,085 - INFO - [4H] PI-USDT-SWAP 2025-06-03 08:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:41,353 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:41,354 - INFO - [4H] PI-USDT-SWAP 2025-06-03 12:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:43,114 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:43,115 - INFO - [4H] PI-USDT-SWAP 2025-06-03 16:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:44,642 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:44,643 - INFO - [4H] PI-USDT-SWAP 2025-06-03 20:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:46,675 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:46,676 - INFO - [4H] PI-USDT-SWAP 2025-06-04 00:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:52,073 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:52,074 - INFO - [4H] PI-USDT-SWAP 2025-06-04 04:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:54,353 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:54,354 - INFO - [4H] PI-USDT-SWAP 2025-06-04 08:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:55,723 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:55,723 - INFO - [4H] PI-USDT-SWAP 2025-06-04 12:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:58,213 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:26:58,214 - INFO - [4H] PI-USDT-SWAP 2025-06-04 16:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:03,228 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:03,229 - INFO - [4H] PI-USDT-SWAP 2025-06-04 20:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:04,405 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:04,406 - INFO - [4H] PI-USDT-SWAP 2025-06-05 00:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:05,554 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:05,555 - INFO - [4H] PI-USDT-SWAP 2025-06-05 04:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:06,783 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:06,784 - INFO - [4H] PI-USDT-SWAP 2025-06-05 08:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:08,516 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:08,517 - INFO - [4H] PI-USDT-SWAP 2025-06-05 12:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:09,837 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:09,837 - INFO - [4H] PI-USDT-SWAP 2025-06-05 16:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:11,118 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:11,118 - INFO - [4H] PI-USDT-SWAP 2025-06-05 20:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:12,402 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:12,403 - INFO - [4H] PI-USDT-SWAP 2025-06-06 00:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:14,745 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:14,746 - INFO - [4H] PI-USDT-SWAP 2025-06-06 04:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:16,078 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:16,079 - INFO - [4H] PI-USDT-SWAP 2025-06-06 08:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:17,272 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:17,273 - INFO - [4H] PI-USDT-SWAP 2025-06-06 12:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:18,262 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:18,263 - INFO - [4H] PI-USDT-SWAP 2025-06-06 16:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:19,760 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:19,761 - INFO - [4H] PI-USDT-SWAP 2025-06-06 20:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:21,197 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:21,197 - INFO - [4H] PI-USDT-SWAP 2025-06-07 00:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:22,797 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:22,797 - INFO - [4H] PI-USDT-SWAP 2025-06-07 04:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:24,236 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:24,237 - INFO - [4H] PI-USDT-SWAP 2025-06-07 08:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:25,681 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:25,682 - INFO - [4H] PI-USDT-SWAP 2025-06-07 12:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:26,927 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:26,927 - INFO - [4H] PI-USDT-SWAP 2025-06-07 16:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:28,421 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:28,422 - INFO - [4H] PI-USDT-SWAP 2025-06-07 20:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:29,835 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:29,835 - INFO - [4H] PI-USDT-SWAP 2025-06-08 00:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:31,754 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:31,755 - INFO - [4H] PI-USDT-SWAP 2025-06-08 04:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:32,900 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:32,901 - INFO - [4H] PI-USDT-SWAP 2025-06-08 08:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:39,339 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:39,339 - INFO - [4H] PI-USDT-SWAP 2025-06-08 12:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:40,723 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:40,724 - INFO - [4H] PI-USDT-SWAP 2025-06-08 16:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:42,157 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:42,157 - INFO - [4H] PI-USDT-SWAP 2025-06-08 20:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:43,434 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:43,435 - INFO - [4H] PI-USDT-SWAP 2025-06-09 00:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:45,007 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:45,007 - INFO - [4H] PI-USDT-SWAP 2025-06-09 04:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:47,119 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:47,120 - INFO - [4H] PI-USDT-SWAP 2025-06-09 08:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:49,220 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:49,221 - INFO - [4H] PI-USDT-SWAP 2025-06-09 12:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:50,392 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:50,392 - INFO - [4H] PI-USDT-SWAP 2025-06-09 16:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:52,075 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:52,076 - INFO - [4H] PI-USDT-SWAP 2025-06-09 20:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:53,406 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:53,407 - INFO - [4H] PI-USDT-SWAP 2025-06-10 00:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:54,477 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:27:54,478 - INFO - [4H] PI-USDT-SWAP 2025-06-10 04:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:28:11,470 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:28:11,471 - INFO - [4H] PI-USDT-SWAP 2025-06-10 08:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:28:12,714 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:28:12,715 - INFO - [4H] PI-USDT-SWAP 2025-06-10 12:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:28:13,996 - INFO - [4H] 识别到趋势: downtrend, OB: {'top': 0.6849, 'bottom': 0.6785}
+2025-06-10 16:28:13,997 - INFO - [4H] PI-USDT-SWAP 2025-06-10 16:00 整 趋势=downtrend, OB={'top': 0.6849, 'bottom': 0.6785}
